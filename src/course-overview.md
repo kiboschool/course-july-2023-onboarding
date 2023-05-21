@@ -1,6 +1,6 @@
-# Course Overview
+# Welcome to Kibo
 
-This page should include:
+This is the July 2023 onboarding course. So excited to have you!
 
 - course number and credits
 - welcome video from the instructor

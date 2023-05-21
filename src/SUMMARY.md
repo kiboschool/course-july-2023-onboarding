@@ -13,7 +13,7 @@
 ### Week 2
 - [Set it up](#)
     - [Introduction](lessons/week-2/intro.md)
-    - [Set up your accounts](#)
+    - [Set up your accounts](lessons/week-2/accounts.md)
 
 ### Week 3
 

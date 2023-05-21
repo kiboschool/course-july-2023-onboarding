@@ -1,4 +1,4 @@
-# Example Lesson
+# Set up your accounts
 
 Some of the markdown features available to use in lessons. 
 

@@ -2,7 +2,6 @@
 
 [Course Overview](course-overview.md)
 [Assessments & Grading](assessments.md)
-[Live Classes](live-classes.md)
 
 ## Lessons
 
@@ -12,5 +11,12 @@
     - [Example Lesson](lessons/week-1/example.md)
 
 ### Week 2
+- [Set it up](#)
+    - [Introduction](#)
+    - [Set up your accounts](#)
+
+### Week 3
+
+### Week 4
 
 ...

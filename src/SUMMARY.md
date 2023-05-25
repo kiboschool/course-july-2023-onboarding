@@ -33,6 +33,6 @@
 ### Week 4
 
 - [Week 4: Orientation Week](lessons/week-4/week-4.md)
-    - [The Kibo Community](lessons/week-4/example.md)
+    - [The Kibo Community](lessons/week-4/community.md)
     - [Assignment](lessons/week-4/example.md)
 ...

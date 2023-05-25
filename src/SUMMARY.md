@@ -14,8 +14,9 @@
     - [Assignment](lessons/week-1/example.md)
 
 ### Week 2
-- [Week 2: Set it up](#)
-    - [Introduction](lessons/week-2/intro.md)
+
+- [Week 2: Set it up](lessons/week-2/week-2.md)
+    - [Google account & Zoom Setup](lessons/week-2/intro.md)
     - [Set up your accounts](lessons/week-2/accounts.md)
 
 ### Week 3

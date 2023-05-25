@@ -1,4 +1,4 @@
-# Example Lesson
+# Assignment
 
 Some of the markdown features available to use in lessons. 
 

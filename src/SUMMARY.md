@@ -17,9 +17,9 @@
 
 - [Week 2: Set it up](lessons/week-2/week-2.md)
     - [Google account & Zoom Setup](lessons/week-2/accounts.md)
-    - [Computer Setup](lessons/week-2/accounts.md)
-    - [Pre-work (typing, python)](lessons/week-2/example.md)
-    - [Assignment](lessons/week-2/example.md)
+    - [Computer Setup](lessons/week-2/computer-setup.md)
+    - [Pre-work (typing, python)](lessons/week-2/pre-work.md)
+    - [Assignment](lessons/week-2/week2-assignment.md)
 
 ### Week 3
 

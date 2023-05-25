@@ -24,11 +24,11 @@
 ### Week 3
 
 - [Week 3: Learning at Kibo](lessons/week-3/week-3.md)
-    - [What You Will learn](lessons/week-3/example.md)
-    - [How You Will learn](lessons/week-3/example.md)
-    - [Policies](lessons/week-3/example.md)
-    - [Success Tips](lessons/week-3/example.md)
-    - [Assignment](lessons/week-3/example.md)
+    - [What You Will learn](lessons/week-3/what.md)
+    - [How You Will learn](lessons/week-3/how.md)
+    - [Policies](lessons/week-3/policies.md)
+    - [Success Tips](lessons/week-3/success-tips.md)
+    - [Assignment](lessons/week-3/week3-assignments.md)
 
 ### Week 4
 

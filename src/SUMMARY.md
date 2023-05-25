@@ -8,10 +8,10 @@
 ### Week 1
 
 - [Week 1: Welcome to Kibo](lessons/week-1/week-1.md)
-    - [Welcome to Kibo](lessons/week-1/example.md)
-    - [Academic Operations](lessons/week-1/example.md)
-    - [Save the dates – class time, orientation, calendar](lessons/week-1/example.md)
-    - [Assignment](lessons/week-1/example.md)
+    - [Welcome to Kibo](lessons/week-1/welcome.md)
+    - [Academic Operations](lessons/week-1/academic-ops.md)
+    - [Save the dates – class time, orientation, calendar](lessons/week-1/dates.md)
+    - [Assignment](lessons/week-1/week1-assignment.md)
 
 ### Week 2
 

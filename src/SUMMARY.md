@@ -28,11 +28,11 @@
     - [How You Will learn](lessons/week-3/how.md)
     - [Policies](lessons/week-3/policies.md)
     - [Success Tips](lessons/week-3/success-tips.md)
-    - [Assignment](lessons/week-3/week3-assignments.md)
+    - [Assignment](lessons/week-3/week3-assignment.md)
 
 ### Week 4
 
 - [Week 4: Orientation Week](lessons/week-4/week-4.md)
     - [The Kibo Community](lessons/week-4/community.md)
-    - [Assignment](lessons/week-4/example.md)
+    - [Assignment](lessons/week-4/week4-assignment.md)
 ...

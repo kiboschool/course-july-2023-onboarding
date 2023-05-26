@@ -3,7 +3,7 @@ authors = []
 language = "en"
 multilingual = false
 src = "src"
-title = "Onboarding Course"
+title = "Kibo Onboarding Course"
 
 [build]
 build-dir = "output"

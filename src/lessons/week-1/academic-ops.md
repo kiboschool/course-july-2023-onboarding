@@ -19,6 +19,7 @@ Bank Name: First National Bankers Bank
 Bank Address: 7813 Office Park Blvd Baton Rouge, LA, 70809 USA
 
 
+
 **Beneficiary Details**
 
 IBAN / Account number: 084106768
@@ -32,6 +33,7 @@ Account 9800946798 for Kibo, Inc. at Evolve Bank & Trust. Student ID: {enter you
 
 
 ### Pay by Bank Transfer (within the US)
+
 **Bank Details**
 
 Bank name: Evolve Bank & Trust
@@ -39,6 +41,7 @@ Bank name: Evolve Bank & Trust
 ABA Routing Number: 084106768
 
 Bank Address: 6070 Poplar Ave, Suite 200 Memphis, TN 38119
+
 
 
 **Beneficiary Details**
@@ -50,6 +53,7 @@ Account Number: 9800946798
 Type of Account: Checking
 
 Beneficiary Address: 228 Park Avenue South, PMB 31068 New York, NY 10003
+
 
 
 ### Paying with Paypal
@@ -64,6 +68,7 @@ Obtaining US Dollars in Nigeria is difficult due to the restrictions of foreign 
 **Use a money transfer service to obtain USD:** money transfer services such as Western Union, KiaKiaFX may enable you to exchange and/or transfer. We cannot recommend a specific service and encourage you to confirm transfer fees or charges before using a platform.
 
 ## Paying with your local currency
+
 **Paying in Nigerian Naira**
 
 We now support the ability to pay your tuition fees in Naira. When making a payment in Naira, you must convert your stated tuition balance to Naira. Please note that our USD to Naira exchange rate is **$1:N600**. When sending payment, you must include your Kibo ID in the transaction details so that we know the payment is for you. 
@@ -73,6 +78,7 @@ Account Number: 3000117480
 Bank: Kuda Microfinance Bank
 
 Account Name: Kibo Educational Services Ltd.
+
 
 **A note about the conversion rate:**
 
@@ -89,6 +95,7 @@ Flywire currently supports paying in KES using a bank transfer, MPESA or Credit/
 
 
 **Paying in Ghanaian Cedis**
+
 You may make a payment using GHS through our payment partner Flywire. Flywire provides a secure global payment network that simplifies paying your fees from your home country and countries around the world. 
 
 To pay in Shillings, visit: https://flywire.com/pay/kiboschool

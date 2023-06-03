@@ -14,7 +14,6 @@ The bank will ask for the transfer information below, and may also ask for your 
 **Receiving Bank Details**
 
 SWIFT / BIC code: FRNAUS44XXX (remove the trailing XXX if you are asked for an 8-digit code)
-
 Bank Name: First National Bankers Bank
 
 Bank Address: 7813 Office Park Blvd Baton Rouge, LA, 70809 USA

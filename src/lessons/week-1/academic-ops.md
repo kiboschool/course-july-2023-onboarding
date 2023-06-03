@@ -1,14 +1,15 @@
+
 # Pay your tuition
 
 Once you have confirmed your enrollment, you must pay the tuition fee listed in the agreement. You must pay the balance of tuition before the beginning of class on July 10, 2023.   Be sure to double check with your bank or funding source, and understand the additional cost/fees associated with transferring funds. Although you have the option to pay your tuition balance per term, it may make sense to pay more upfront to avoid the extra transfer costs.
 
 ## Paying in USD
+
 ### Pay by Bank Transfer (outside of the US)
 
 **Important!:** when making an international transfer, you must include the reference field. The reference field should include your Student ID which is found on your enrollment agreement.
 
 The bank will ask for the transfer information below, and may also ask for your identification documents. Call or visit your bank to obtain complete information – including fees – for making international wire transfers in USD.
-
 
 **Receiving Bank Details**
 
@@ -17,7 +18,6 @@ SWIFT / BIC code: FRNAUS44XXX (remove the trailing XXX if you are asked for an 8
 Bank Name: First National Bankers Bank
 
 Bank Address: 7813 Office Park Blvd Baton Rouge, LA, 70809 USA
-
 
 
 **Beneficiary Details**
@@ -57,10 +57,12 @@ Beneficiary Address: 228 Park Avenue South, PMB 31068 New York, NY 10003
 
 
 ### Paying with Paypal
+
 You may pay with Paypal by visiting this link: https://paypal.me/kiboschool. Please include your name and Kibo ID in the field on "what is this payment for."
 
 
 ### Paying USD from Nigeria
+
 Obtaining US Dollars in Nigeria is difficult due to the restrictions of foreign exchange. Below are recommended options for paying in USD Nigerian students.
 
 **Pay in USD from a domiciliary account:** if you or your sponsor have an existing USD domiciliary account, you can make payment from that account. 

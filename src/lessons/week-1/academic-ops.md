@@ -4,12 +4,15 @@ Once you have confirmed your enrollment, you must pay the tuition fee listed in 
 
 ## Paying in USD
 ### Pay by Bank Transfer (outside of the US)
-Important!: when making an international transfer, you must include the reference field. The reference field should include your Student ID which is found on your enrollment agreement.
+**Important!:** when making an international transfer, you must include the reference field. The reference field should include your Student ID which is found on your enrollment agreement.
+
 The bank will ask for the transfer information below, and may also ask for your identification documents. Call or visit your bank to obtain complete information – including fees – for making international wire transfers in USD.
 
 **Receiving Bank Details**
 SWIFT / BIC code: FRNAUS44XXX (remove the trailing XXX if you are asked for an 8-digit code)
+
 Bank Name: First National Bankers Bank
+
 Bank Address: 7813 Office Park Blvd Baton Rouge, LA, 70809 USA
 
 **Beneficiary Details**

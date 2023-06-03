@@ -9,6 +9,7 @@ Once you have confirmed your enrollment, you must pay the tuition fee listed in 
 The bank will ask for the transfer information below, and may also ask for your identification documents. Call or visit your bank to obtain complete information – including fees – for making international wire transfers in USD.
 
 **Receiving Bank Details**
+
 SWIFT / BIC code: FRNAUS44XXX (remove the trailing XXX if you are asked for an 8-digit code)
 
 Bank Name: First National Bankers Bank
@@ -16,22 +17,33 @@ Bank Name: First National Bankers Bank
 Bank Address: 7813 Office Park Blvd Baton Rouge, LA, 70809 USA
 
 **Beneficiary Details**
+
 IBAN / Account number: 084106768
+
 Beneficiary Name: Evolve Bank & Trust
+
 Beneficiary Address: 6070 Poplar Ave, Suite 200 Memphis, TN 38119 USA
+
 Reference field:
 Account 9800946798 for Kibo, Inc. at Evolve Bank & Trust. Student ID: {enter your ID}
 
 ### Pay by Bank Transfer (within the US)
 **Bank Details**
+
 Bank name: Evolve Bank & Trust
+
 ABA Routing Number: 084106768
+
 Bank Address: 6070 Poplar Ave, Suite 200 Memphis, TN 38119
 
 **Beneficiary Details**
+
 Beneficiary Name: Kibo, Inc.
+
 Account Number: 9800946798
+
 Type of Account: Checking
+
 Beneficiary Address: 228 Park Avenue South, PMB 31068 New York, NY 10003
 
 ### Paying with Paypal
@@ -49,7 +61,9 @@ Obtaining US Dollars in Nigeria is difficult due to the restrictions of foreign 
 We now support the ability to pay your tuition fees in Naira. When making a payment in Naira, you must convert your stated tuition balance to Naira. Please note that our USD to Naira exchange rate is **$1:N600**. When sending payment, you must include your Kibo ID in the transaction details so that we know the payment is for you. 
 
 Account Number: 3000117480
+
 Bank: Kuda Microfinance Bank
+
 Account Name: Kibo Educational Services Ltd.
 
 **A note about the conversion rate:**

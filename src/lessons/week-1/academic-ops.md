@@ -17,8 +17,7 @@ SWIFT / BIC code: FRNAUS44XXX (remove the trailing XXX if you are asked for an 8
 Bank Name: First National Bankers Bank
 
 Bank Address: 7813 Office Park Blvd Baton Rouge, LA, 70809 USA
-
-
+#
 #### Beneficiary Details
 
 IBAN / Account number: 084106768
@@ -30,10 +29,9 @@ Beneficiary Address: 6070 Poplar Ave, Suite 200 Memphis, TN 38119 USA
 Reference field:
 Account 9800946798 for Kibo, Inc. at Evolve Bank & Trust. Student ID: {enter your ID}
 
-
 ### Pay by Bank Transfer (within the US)
 
-**Bank Details**
+#### Bank Details
 
 Bank name: Evolve Bank & Trust
 
@@ -41,9 +39,7 @@ ABA Routing Number: 084106768
 
 Bank Address: 6070 Poplar Ave, Suite 200 Memphis, TN 38119
 
-
-
-**Beneficiary Details**
+#### Beneficiary Details
 
 Beneficiary Name: Kibo, Inc.
 
@@ -53,12 +49,9 @@ Type of Account: Checking
 
 Beneficiary Address: 228 Park Avenue South, PMB 31068 New York, NY 10003
 
-
-
 ### Paying with Paypal
 
 You may pay with Paypal by visiting this link: https://paypal.me/kiboschool. Please include your name and Kibo ID in the field on "what is this payment for."
-
 
 ### Paying USD from Nigeria
 

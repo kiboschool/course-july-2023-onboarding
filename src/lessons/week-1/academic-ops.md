@@ -63,7 +63,7 @@ Obtaining US Dollars in Nigeria is difficult due to the restrictions of foreign 
 
 ## Paying with your local currency
 
-**Paying in Nigerian Naira**
+#### Paying in Nigerian Naira
 
 We now support the ability to pay your tuition fees in Naira. When making a payment in Naira, you must convert your stated tuition balance to Naira. Please note that our USD to Naira exchange rate is **$1:N600**. When sending payment, you must include your Kibo ID in the transaction details so that we know the payment is for you. 
 
@@ -73,13 +73,11 @@ Bank: Kuda Microfinance Bank
 
 Account Name: Kibo Educational Services Ltd.
 
-
-**A note about the conversion rate:**
+#### A note about the conversion rate:
 
 The Kibo tuition payment exchange rate is different from the official exchange rate published by the Central Bank of Nigeria. Unfortunately, Nigeria has an ongoing foreign exchange crisis. It is extremely difficult to convert Naira to US Dollars and virtually impossible to do so at the official rate. Most individuals and businesses use the parallel (aka “black”) market to exchange. For the past 3 months, the Dollar to Naira parallel market exchange rate has been between N608 to N723.  Kibo incurs its expenses (e.g., paying instructor salaries) in dollars and must use the parallel market rate when obtaining dollars. Therefore our exchange rate has been set to offset that balance. 
 
-
-**Paying in Kenyan Shillings**
+#### Paying in Kenyan Shillings
 
 You may make a payment using KES through our payment partner Flywire. Flywire provides a secure global payment network that simplifies paying your fees from your home country and countries around the world. 
 
@@ -87,14 +85,12 @@ To pay in Shillings, visit: https://flywire.com/pay/kiboschool
 
 Flywire currently supports paying in KES using a bank transfer, MPESA or Credit/Debit card. 
 
-
-**Paying in Ghanaian Cedis**
+#### Paying in Ghanaian Cedis
 
 You may make a payment using GHS through our payment partner Flywire. Flywire provides a secure global payment network that simplifies paying your fees from your home country and countries around the world. 
 
 To pay in Shillings, visit: https://flywire.com/pay/kiboschool
 
 Flywire currently supports paying in GHS using a Credit/Debit card. 
-
 
 ### We understand that paying for your education is a significant investment. If you have questions about your payment or challenges making the payment, contact us at **financial.aid@kibo.school**

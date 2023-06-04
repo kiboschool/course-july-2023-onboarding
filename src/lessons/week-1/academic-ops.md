@@ -85,10 +85,6 @@ To pay in Shillings, visit: https://flywire.com/pay/kiboschool
 
 Flywire currently supports paying in KES using a bank transfer, MPESA or Credit/Debit card. 
 
-
-
-
-
 #### Paying in Ghanaian Cedis
 
 You may make a payment using GHS through our payment partner Flywire. Flywire provides a secure global payment network that simplifies paying your fees from your home country and countries around the world. 

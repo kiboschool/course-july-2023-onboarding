@@ -1,4 +1,3 @@
-
 # Pay your tuition
 
 Once you have confirmed your enrollment, you must pay the tuition fee listed in the agreement. You must pay the balance of tuition before the beginning of class on July 10, 2023.   Be sure to double check with your bank or funding source, and understand the additional cost/fees associated with transferring funds. Although you have the option to pay your tuition balance per term, it may make sense to pay more upfront to avoid the extra transfer costs.
@@ -11,7 +10,7 @@ Once you have confirmed your enrollment, you must pay the tuition fee listed in 
 
 The bank will ask for the transfer information below, and may also ask for your identification documents. Call or visit your bank to obtain complete information – including fees – for making international wire transfers in USD.
 
-**Receiving Bank Details**
+**#### Receiving Bank Details**
 
 SWIFT / BIC code: FRNAUS44XXX (remove the trailing XXX if you are asked for an 8-digit code)
 
@@ -19,7 +18,7 @@ Bank Name: First National Bankers Bank
 
 Bank Address: 7813 Office Park Blvd Baton Rouge, LA, 70809 USA
 
-**Beneficiary Details**
+**#### Beneficiary Details**
 
 IBAN / Account number: 084106768
 

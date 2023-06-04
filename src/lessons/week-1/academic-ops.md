@@ -94,3 +94,30 @@ To pay in Shillings, visit: https://flywire.com/pay/kiboschool
 Flywire currently supports paying in GHS using a Credit/Debit card. 
 
 ### We understand that paying for your education is a significant investment. If you have questions about your payment or challenges making the payment, contact us at **financial.aid@kibo.school**
+
+# Frequently Asked Questions
+
+### What do I need to complete before orientation?
+
+### When does class start? 
+Orientation begins on Monday July 3 and class begins on Monday July 10. You may view the full academic calendar [here]().
+
+### When will I get my timetable for live classes?
+Each class will meet live over Zoom once a week. You can view the timetable for class [here](). Classes will take place on weekdays between 15:00 - 20:00 GMT. You can convert to your local time zone [here](https://www.timeanddate.com/worldclock/converter.html).
+
+### How do the Kibo hubs work? Do I have to attend classes at the hub?
+The Kibo learning hub are geographical communities of Kibo learners who live within a close distance of one another. You will not need to attend mandatory in-person classes. However, our team will organize optional social and professional meetups for you to build in-person connections with the Kibo community. 
+
+### What classes will I be taking?
+The course requirements for the first year are listed [below](https://docs.google.com/document/d/1E41mBjSB8pTF8_kdUwnOVTScuP1fmBqQk3Gypo1y6YQ/edit#heading=h.6djfusxkhpct). You may also access the interactive curriculum explorer to view descriptions of classes that will be offered for the degree.
+
+### Will I get a diploma certificate after a year of the diploma course in computer science?
+Yes. You will receive a diploma certificate after successfully completing the first year, and a Bachelor of Science degree certification after completing 3 years in the program. 
+
+### How does the yearly internship work? Is the internship guaranteed?
+Every student has to complete an industry experience of at least 280 hours for credit. This experience will take place in the 4th and 8th terms at Kibo.The experience must be an internship, industry challenge, or other professional work-based experience. The internship is not guaranteed though we are working with employer partners to ensure that everyone is set up with either an internship, industry challenge or other professional experience during that term.
+
+### I’m having difficulty paying my tuition from Nigeria. Can you help? 
+We understand that paying from Nigeria is challenging due to the lack of forex. We’ve offered some suggestions [here](https://docs.google.com/document/d/1E41mBjSB8pTF8_kdUwnOVTScuP1fmBqQk3Gypo1y6YQ/edit#bookmark=id.49pthsigmila) for Nigerian students. 
+
+Additionally, if you are able to use PayPal, a link has been set up for payment [here](https://www.paypal.com/paypalme/kiboschool). Please include your name and/or ID in the field on "what is this payment for." Send an email to financial.aid@kibo.school stating any challenge you might have with the process, and our team will be happy to assist.

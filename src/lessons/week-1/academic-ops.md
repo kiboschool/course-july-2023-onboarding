@@ -10,7 +10,7 @@ Once you have confirmed your enrollment, you must pay the tuition fee listed in 
 
 The bank will ask for the transfer information below, and may also ask for your identification documents. Call or visit your bank to obtain complete information – including fees – for making international wire transfers in USD.
 
-**#### Receiving Bank Details**
+#### Receiving Bank Details
 
 SWIFT / BIC code: FRNAUS44XXX (remove the trailing XXX if you are asked for an 8-digit code)
 

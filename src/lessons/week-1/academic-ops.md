@@ -98,6 +98,7 @@ Flywire currently supports paying in GHS using a Credit/Debit card.
 # Frequently Asked Questions
 
 ### What do I need to complete before orientation?
+This onboarding course is a set of tasks and learning you are expected to complete before orientation. A checklist of tasks to complete is available [here]().
 
 ### When does class start? 
 Orientation begins on Monday July 3 and class begins on Monday July 10. You may view the full academic calendar [here]().

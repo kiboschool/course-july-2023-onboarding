@@ -1,5 +1,17 @@
 # Welcome to Kibo
 
+*Estimated Time: 30 minutes*
+
+---
+
+## We're so glad you're here!
+
+>  📺 A welcome message from Kibo's co-founders (0:51)
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/wVzT_GBwoxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
 Some of the markdown features available to use in lessons. 
 
 See the `example.md` file to see the source markdown, and open the page [1.1 Example Lesson](./example.md) to see the rendered HTML.

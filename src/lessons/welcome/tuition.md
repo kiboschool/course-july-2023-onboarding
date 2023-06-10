@@ -1,124 +1,74 @@
-# Pay your tuition
+# Finalizing your enrollment
+You've already taken important steps toward reaching your peak: applying for Kibo, earning admissions, and submitting your enrollment deposit. There are a few  steps needed to officially enroll, namely:
+1. Pay your tuition for the first term
+2. Complete all onboarding activities (this is what you're doing in this course!)
+3. Attend orientation 
 
 Once you have confirmed your enrollment, you must pay the tuition fee listed in the agreement. You must pay the balance of tuition before the beginning of class on July 10, 2023.   Be sure to double check with your bank or funding source, and understand the additional cost/fees associated with transferring funds. Although you have the option to pay your tuition balance per term, it may make sense to pay more upfront to avoid the extra transfer costs.
 
-## Paying in USD
+## Paying your Tuition
+Your tuition balance for Term 1 is due on July 10, 2023. You will receive an email reminder 10 days before the due date from the financial aid office. It is your responsibility to pay the tuition balance for the term. If you wish, you may pay for the entire school year ahead. 
 
-### Pay by Bank Transfer (outside of the US)
+<aside>
+  ❗ If you are unable to pay your tuition and need financial assistance, you should apply for <a href="https://bit.ly/kibo-deferred-payment-2023" target="blank">deferred payment</a>
+ </aside>
 
-**Important!:** when making an international transfer, you must include the reference field. The reference field should include your Student ID which is found on your enrollment agreement.
 
-The bank will ask for the transfer information below, and may also ask for your identification documents. Call or visit your bank to obtain complete information – including fees – for making international wire transfers in USD.
+## How to Pay
 
-#### Receiving Bank Details
-
-SWIFT / BIC code: FRNAUS44XXX (remove the trailing XXX if you are asked for an 8-digit code)
-
-Bank Name: First National Bankers Bank
-
-Bank Address: 7813 Office Park Blvd Baton Rouge, LA, 70809 USA
-
-#### Beneficiary Details
-
-IBAN / Account number: 084106768
-
-Beneficiary Name: Evolve Bank & Trust
-
-Beneficiary Address: 6070 Poplar Ave, Suite 200 Memphis, TN 38119 USA
-
-Reference field:
-Account 9800946798 for Kibo, Inc. at Evolve Bank & Trust. Student ID: {enter your ID}
-
-### Pay by Bank Transfer (within the US)
-
-#### Bank Details
-
-Bank name: Evolve Bank & Trust
-
-ABA Routing Number: 084106768
-
-Bank Address: 6070 Poplar Ave, Suite 200 Memphis, TN 38119
-
-#### Beneficiary Details
-
-Beneficiary Name: Kibo, Inc.
-
-Account Number: 9800946798
-
-Type of Account: Checking
-
-Beneficiary Address: 228 Park Avenue South, PMB 31068 New York, NY 10003
-
-### Paying with Paypal
-
-You may pay with Paypal by visiting this link: https://paypal.me/kiboschool. Please include your name and Kibo ID in the field on "what is this payment for."
-
-### Paying USD from Nigeria
-
-Obtaining US Dollars in Nigeria is difficult due to the restrictions of foreign exchange. Below are recommended options for paying in USD Nigerian students.
-
-**Pay in USD from a domiciliary account:** if you or your sponsor have an existing USD domiciliary account, you can make payment from that account. 
-
-**Use a money transfer service to obtain USD:** money transfer services such as Western Union, KiaKiaFX may enable you to exchange and/or transfer. We cannot recommend a specific service and encourage you to confirm transfer fees or charges before using a platform.
-
-## Paying with your local currency
-
-#### Paying in Nigerian Naira
-
-We now support the ability to pay your tuition fees in Naira. When making a payment in Naira, you must convert your stated tuition balance to Naira. Please note that our USD to Naira exchange rate is **$1:N600**. When sending payment, you must include your Kibo ID in the transaction details so that we know the payment is for you. 
-
-Account Number: 3000117480
-
-Bank: Kuda Microfinance Bank
-
-Account Name: Kibo Educational Services Ltd.
-
-#### A note about the conversion rate:
-
-The Kibo tuition payment exchange rate is different from the official exchange rate published by the Central Bank of Nigeria. Unfortunately, Nigeria has an ongoing foreign exchange crisis. It is extremely difficult to convert Naira to US Dollars and virtually impossible to do so at the official rate. Most individuals and businesses use the parallel (aka “black”) market to exchange. For the past 3 months, the Dollar to Naira parallel market exchange rate has been between N608 to N723.  Kibo incurs its expenses (e.g., paying instructor salaries) in dollars and must use the parallel market rate when obtaining dollars. Therefore our exchange rate has been set to offset that balance. 
-
-#### Paying in Kenyan Shillings
-
-You may make a payment using KES through our payment partner Flywire. Flywire provides a secure global payment network that simplifies paying your fees from your home country and countries around the world. 
-
-To pay in Shillings, visit: https://flywire.com/pay/kiboschool
-
-Flywire currently supports paying in KES using a bank transfer, MPESA or Credit/Debit card. 
+### Pay in local currency with Flywire
+The preferred way to pay is via Flywire. Flywire enables you to pay in USD as well as your local currency. 
 
 #### Paying in Ghanaian Cedis
-
-You may make a payment using GHS through our payment partner Flywire. Flywire provides a secure global payment network that simplifies paying your fees from your home country and countries around the world. 
-
-To pay in Shillings, visit: https://flywire.com/pay/kiboschool
+You may make a payment using GHS through our payment partner Flywire. Flywire provides a secure global payment network that simplifies paying your fees from your home country and countries around the world.  To pay in Cedis, visit: https://flywire.com/pay/kiboschool
 
 Flywire currently supports paying in GHS using a Credit/Debit card. 
 
-### We understand that paying for your education is a significant investment. If you have questions about your payment or challenges making the payment, contact us at **financial.aid@kibo.school**
+#### Paying in Kenyan Shillings
+You may make a payment using KES through our payment partner Flywire. Flywire provides a secure global payment network that simplifies paying your fees from your home country and countries around the world.  To pay in Shillings, visit: https://flywire.com/pay/kiboschool
 
-# Frequently Asked Questions
+Flywire currently supports paying in Shilling using MPESA or Credit/Debit card. 
 
-### What do I need to complete before orientation?
-This onboarding course is a set of tasks and learning you are expected to complete before orientation. A checklist of tasks to complete is available [here]().
 
-### When does class start? 
-Orientation begins on Monday July 3 and class begins on Monday July 10. You may view the full academic calendar [here]().
+#### Paying in Nigerian Naira
+You may make a payment using NGN through our payment partner Flywire. Flywire provides a secure global payment network that simplifies paying your fees from your home country and countries around the world. To pay in Naira, visit: https://flywire.com/pay/kiboschool
 
-### When will I get my timetable for live classes?
-Each class will meet live over Zoom once a week. You can view the timetable for class [here](). Classes will take place on weekdays between 15:00 - 20:00 GMT. You can convert to your local time zone [here](https://www.timeanddate.com/worldclock/converter.html).
+Flywire currently supports paying in Naira via bank transfer or Credit/Debit card. 
 
-### How do the Kibo hubs work? Do I have to attend classes at the hub?
-The Kibo learning hub are geographical communities of Kibo learners who live within a close distance of one another. You will not need to attend mandatory in-person classes. However, our team will organize optional social and professional meetups for you to build in-person connections with the Kibo community. 
+#### Paying in Other Currencies
+Flywire supports 100+ currencies, in the event that someone else is paying on your behalf from another country. To pay in another currency, go to Flywire and select the country from which payment is being made. 
 
-### What classes will I be taking?
-The course requirements for the first year are listed [below](https://docs.google.com/document/d/1E41mBjSB8pTF8_kdUwnOVTScuP1fmBqQk3Gypo1y6YQ/edit#heading=h.6djfusxkhpct). You may also access the interactive curriculum explorer to view descriptions of classes that will be offered for the degree.
+## Pay in USD using Paypal
+You may pay with Paypal by visiting this link: https://paypal.me/kiboschool. Please include your name and Kibo ID in the field on "what is this payment for."
 
-### Will I get a diploma certificate after a year of the diploma course in computer science?
-Yes. You will receive a diploma certificate after successfully completing the first year, and a Bachelor of Science degree certification after completing 3 years in the program. 
 
-### How does the yearly internship work? Is the internship guaranteed?
-Every student has to complete an industry experience of at least 280 hours for credit. This experience will take place in the 4th and 8th terms at Kibo.The experience must be an internship, industry challenge, or other professional work-based experience. The internship is not guaranteed though we are working with employer partners to ensure that everyone is set up with either an internship, industry challenge or other professional experience during that term.
+## Pay in USD via Bank Transfer 
+**Important!**: when making a transfer, include a reference field with your Student ID which is found on your enrollment agreement page. Please ensure you obtain complete information - including fees you may incur - before making a bank transfer in USD. 
 
-### I’m having difficulty paying my tuition from Nigeria. Can you help? 
-We understand that paying from Nigeria is challenging due to the lack of forex. We’ve offered some suggestions [here](https://docs.google.com/document/d/1E41mBjSB8pTF8_kdUwnOVTScuP1fmBqQk3Gypo1y6YQ/edit#bookmark=id.49pthsigmila) for Nigerian students. 
+**Pay by Bank Transfer (outside of the US)**
 
-Additionally, if you are able to use PayPal, a link has been set up for payment [here](https://www.paypal.com/paypalme/kiboschool). Please include your name and/or ID in the field on "what is this payment for." Send an email to financial.aid@kibo.school stating any challenge you might have with the process, and our team will be happy to assist.
+Receiving Bank Details
+- SWIFT / BIC code: FRNAUS44XXX (remove the trailing XXX if you are asked for an 8-digit code)
+- Bank Name: First National Bankers Bank
+- Bank Address: 7813 Office Park Blvd Baton Rouge, LA, 70809 USA
+
+Beneficiary Details
+- IBAN / Account number: 084106768
+- Beneficiary Name: Evolve Bank & Trust
+- Beneficiary Address: 6070 Poplar Ave, Suite 200 Memphis, TN 38119 USA
+- Reference field:
+Account 9800946798 for Kibo, Inc. at Evolve Bank & Trust. Student ID: {enter your ID}
+
+
+**Pay by Bank Transfer (within the US)**
+
+Bank Details
+- Bank name: Evolve Bank & Trust
+- ABA Routing Number: 084106768
+- Bank Address: 6070 Poplar Ave, Suite 200 Memphis, TN 38119
+
+Beneficiary Details
+- Beneficiary Name: Kibo, Inc.
+- Account Number: 9800946798
+- Type of Account: Checking
+- Beneficiary Address: 228 Park Avenue South, PMB 31068 New York, NY 10003

@@ -1,8 +1,6 @@
 # Overview
 
 [About this Class](course-overview.md)
-[Frequently Asked Questions](faqs.md)
-[Checklist](#)
 
 ## Lessons
 
@@ -30,4 +28,7 @@
     - [Policies](lessons/week-3/policies.md)
     - [Success Tips](lessons/week-3/success-tips.md)
     - [Assignment](lessons/week-3/week3-assignment.md)
+
+[Frequently Asked Questions](faqs.md)
+[Checklist](checklist.md)
 ...

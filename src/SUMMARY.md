@@ -10,7 +10,7 @@
 - [Welcome to Kibo](lessons/welcome/overview.md)
     - [Finalize your enrollment](lessons/welcome/tuition.md)
     - [Prepare your calendar](lessons/welcome/dates.md)
-    - [Prepare to learn](lessons/welcome/prework.md)
+    - [Sharpen your skills](lessons/welcome/prework.md)
     - [FAQs](faqs.md)
     - [Assignment](lessons/week-1/week1-assignment.md)
 

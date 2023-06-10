@@ -7,10 +7,11 @@
 
 ### Welcome
 
-- [Welcome to Kibo](lessons/week-1/week-1.md)
-    - [Welcome to Kibo](lessons/week-1/welcome.md)
-    - [Academic Operations](lessons/week-1/academic-ops.md)
-    - [Save the dates – class time, orientation, calendar](lessons/week-1/dates.md)
+- [Welcome to Kibo](lessons/welcome/overview.md)
+    - [Finalize your enrollment](lessons/welcome/tuition.md)
+    - [Prepare your calendar](lessons/welcome/dates.md)
+    - [Prepare to learn](lessons/welcome/prework.md)
+    - [FAQs](faqs.md)
     - [Assignment](lessons/week-1/week1-assignment.md)
 
 ### Learning at Kibo

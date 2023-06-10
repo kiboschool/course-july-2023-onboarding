@@ -4,17 +4,17 @@ _Estimated Time: 30 minutes_
 ----
 
 ## Save the dates for Orientation
-Orientation week is one of the most exciting weeks at Kibo. During this time, you will meet the Kibo community (classmates, staff, instructors), and get fully prepared to begin class. You can see some of the reflections from the last orientation here, here, or here. 
+Orientation week is one of the most exciting weeks at Kibo. During this time, you will meet the Kibo community and get fully prepared to begin class. More information about orientation will be shared with you. For now, you should block the dates and times, and ensure that you can be in a quiet place with good bandwidth for virtual activities.
 
-More information about orientation will be shared with you. For now, the most important thing is to save the date. Orientation begins on Monday July 3. Please hold time that week from 4pm-7pm GMT for mandatory orientation activities on Zoom. On Saturday July 8, we will have in-person orientation events in our hubs where you will get to meet Kibo students and staff. 
+**Orientation begins on Monday July 3**. 
+- Hold time from 4pm-7pm GMT on Monday through Thursday for mandatory virtual orientation activities on Zoom. 
 
-![image](https://github.com/kiboschool/july-2023-onboarding/assets/1774663/d9db9f23-68ae-4f34-b9c7-d2932f747656)
+**On Saturday July 8**, we will have in-person events in our hubs where you will get to meet Kibo students and staff. <a href="https://www.linkedin.com/posts/kiboschool_kibocsd-kibocsdorientation-kiboschool-activity-6985185304735322112-boNq?utm_source=share&utm_medium=member_desktop" target="_blank">Here is a recap</a> of last year's orientation.
+- Hold time from 9am - 5pm on Saturday for optional in-person orientation activities in a local area
 
 
-_Above: photos from the last orientation in-person gathering
-_
-## Save the times for Term 1 classes
-We will share more details on your classes and learning at Kibo during the coming weeks. For now, it's important to remember that the course of study at Kibo is rigorous and requires a significant time commitment. You should plan to set aside:
+## Save the dates for Term 1 classes
+You will receive more details on on your classes and learning at Kibo during the coming weeks. For now, it's important to remember that the course of study at Kibo is rigorous and requires a significant time commitment. You should plan to set aside:
 - 50 hours a week for full-time study
 - 20 hours a week for part-time study 
 

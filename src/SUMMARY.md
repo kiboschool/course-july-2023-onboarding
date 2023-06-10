@@ -12,6 +12,7 @@
     - [Sharpen your skills](lessons/welcome/pre-work.md)
     - [Assignment](lessons/welcome/assignment.md)
 
+<!--
 ### Learning at Kibo
 
 - [Learning at Kibo](lessons/week-2/week-2.md)
@@ -28,6 +29,7 @@
     - [Policies](lessons/week-3/policies.md)
     - [Success Tips](lessons/week-3/success-tips.md)
     - [Assignment](lessons/week-3/week3-assignment.md)
+-->
 
 [Frequently Asked Questions](faqs.md)
 [Checklist](checklist.md)

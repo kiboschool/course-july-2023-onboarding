@@ -1,6 +1,6 @@
 # Overview
 
-[About this Guide](course-overview.md)
+[About this Class](course-overview.md)
 [Frequently Asked Questions](faqs.md)
 [Checklist](#)
 

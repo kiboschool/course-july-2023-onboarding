@@ -8,11 +8,11 @@ Orientation week is one of the most exciting weeks at Kibo. During this time, yo
 
 More information about orientation will be shared with you. For now, the most important thing is to save the date. Orientation begins on Monday July 3. Please hold time that week from 4pm-7pm GMT for mandatory orientation activities on Zoom. On Saturday July 8, we will have in-person orientation events in our hubs where you will get to meet Kibo students and staff. 
 
-![image](https://github.com/kiboschool/july-2023-onboarding/assets/1774663/5af9f89a-b9a1-4745-846e-3a3e54c456eb)
+![image](https://github.com/kiboschool/july-2023-onboarding/assets/1774663/d9db9f23-68ae-4f34-b9c7-d2932f747656)
+
 
 _Above: photos from the last orientation in-person gathering
 _
-
 ## Save the times for Term 1 classes
 We will share more details on your classes and learning at Kibo during the coming weeks. For now, it's important to remember that the course of study at Kibo is rigorous and requires a significant time commitment. You should plan to set aside:
 - 50 hours a week for full-time study

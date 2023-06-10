@@ -4,8 +4,6 @@ _Estimated Time: 30 minutes_
 ----
 While you wait to begin class, take a few hours each week to sharpen some skills that will help you learning. While completing these activities are optional, they are highly recommended to help you go further, faster.
 
-<
-
 ## Improve your typing in 10 minutes a day with Speedcoder
 
 <aside>

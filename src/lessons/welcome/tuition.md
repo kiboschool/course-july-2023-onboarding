@@ -16,27 +16,26 @@ Your tuition balance for Term 1 is due on July 10, 2023. You will receive an ema
 
 ## How to Pay
 
+> 💡 The preferred way to pay tuition at Kibo is to use Flywire. Flywire provides a secure global payment network that simplifies paying your fees from your home country and countries around the world. Flywire enables you to pay in your local currency or to transfer USD. 
+
+
 ### Pay in local currency with Flywire
-The preferred way to pay is via Flywire. Flywire enables you to pay in USD as well as your local currency. 
 
-#### Paying in Ghanaian Cedis
-You may make a payment using GHS through our payment partner Flywire. Flywire provides a secure global payment network that simplifies paying your fees from your home country and countries around the world.  To pay in Cedis, visit: https://flywire.com/pay/kiboschool
-
-Flywire currently supports paying in GHS using a Credit/Debit card. 
-
-#### Paying in Kenyan Shillings
-You may make a payment using KES through our payment partner Flywire. Flywire provides a secure global payment network that simplifies paying your fees from your home country and countries around the world.  To pay in Shillings, visit: https://flywire.com/pay/kiboschool
-
-Flywire currently supports paying in Shilling using MPESA or Credit/Debit card. 
+#### Pay in Ghanaian Cedis
+Flywire currently supports paying in GHS using a Credit/Debit card. To pay in Cedis, visit: https://flywire.com/pay/kiboschool
 
 
-#### Paying in Nigerian Naira
-You may make a payment using NGN through our payment partner Flywire. Flywire provides a secure global payment network that simplifies paying your fees from your home country and countries around the world. To pay in Naira, visit: https://flywire.com/pay/kiboschool
 
-Flywire currently supports paying in Naira via bank transfer or Credit/Debit card. 
+#### Pay in Kenyan Shillings
+Flywire currently supports paying in Shilling using MPESA or Credit/Debit card. To pay in Shillings, visit: https://flywire.com/pay/kiboschool
 
+
+
+#### Pay in Nigerian Naira
+Flywire currently supports paying in Naira via bank transfer or Credit/Debit card. To pay in Naira, visit: https://flywire.com/pay/kiboschool
+ 
 #### Paying in Other Currencies
-Flywire supports 100+ currencies, in the event that someone else is paying on your behalf from another country. To pay in another currency, go to Flywire and select the country from which payment is being made. 
+Flywire supports 100+ currencies. To pay in another currency, go to Flywire and select the country from which payment is being made. 
 
 ## Pay in USD using Paypal
 You may pay with Paypal by visiting this link: https://paypal.me/kiboschool. Please include your name and Kibo ID in the field on "what is this payment for."

@@ -1,6 +1,7 @@
 # Overview
 
 [About this Guide](course-overview.md)
+[Frequently Asked Questions](faqs.md)
 [Checklist](#)
 
 ## Lessons
@@ -11,7 +12,6 @@
     - [Finalize your enrollment](lessons/welcome/tuition.md)
     - [Prepare your calendar](lessons/welcome/dates.md)
     - [Sharpen your skills](lessons/welcome/pre-work.md)
-    - [FAQs](faqs.md)
     - [Assignment](lessons/welcome/assignment.md)
 
 ### Learning at Kibo

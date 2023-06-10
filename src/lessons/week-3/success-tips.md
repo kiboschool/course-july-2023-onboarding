@@ -1,4 +1,4 @@
-# Example Lesson
+# Success Tips
 
 Some of the markdown features available to use in lessons. 
 

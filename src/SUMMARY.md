@@ -1,22 +1,34 @@
 # Overview
 
-[Course Overview](course-overview.md)
-[Assessments & Grading](assessments.md)
+[About this Class](course-overview.md)
 
 ## Lessons
 
-### Week 1
+### Welcome
 
-- [Week 1](lessons/week-1/week-1.md)
-    - [Example Lesson](lessons/week-1/example.md)
+- [Welcome to Kibo](lessons/welcome/overview.md)
+    - [Finalize your enrollment](lessons/welcome/tuition.md)
+    - [Prepare your calendar](lessons/welcome/dates.md)
+    - [Sharpen your skills](lessons/welcome/pre-work.md)
+    - [Assignment](lessons/welcome/assignment.md)
 
-### Week 2
-- [Set it up](#)
-    - [Introduction](lessons/week-2/intro.md)
-    - [Set up your accounts](lessons/week-2/accounts.md)
+### Learning at Kibo
 
-### Week 3
+- [Learning at Kibo](lessons/week-2/week-2.md)
+    - [Google account & Zoom Setup](lessons/week-2/accounts.md)
+    - [Computer Setup](lessons/week-2/computer-setup.md)
+    - [Pre-work (typing, python)](lessons/week-2/pre-work.md)
+    - [Assignment](lessons/week-2/week2-assignment.md)
 
-### Week 4
+### Orientation
 
+- [Orientation](lessons/week-3/week-3.md)
+    - [What You Will learn](lessons/week-3/what.md)
+    - [How You Will learn](lessons/week-3/how.md)
+    - [Policies](lessons/week-3/policies.md)
+    - [Success Tips](lessons/week-3/success-tips.md)
+    - [Assignment](lessons/week-3/week3-assignment.md)
+
+[Frequently Asked Questions](faqs.md)
+[Checklist](checklist.md)
 ...

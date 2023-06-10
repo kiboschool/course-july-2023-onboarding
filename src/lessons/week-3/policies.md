@@ -1,4 +1,4 @@
-# Google account & Zoom Setup
+# Policies
 
 Some of the markdown features available to use in lessons. 
 

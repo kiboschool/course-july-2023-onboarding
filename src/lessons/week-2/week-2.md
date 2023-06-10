@@ -6,5 +6,3 @@ that week, and frame the narrative of that section.
 - Weekly overview video
 - Narrative description of the week's topics
 - List of topics
-
-

@@ -1,4 +1,4 @@
-# Google account & Zoom Setup
+# Computer Setup
 
 Some of the markdown features available to use in lessons. 
 

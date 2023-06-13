@@ -1,1 +1,1 @@
-# Academic Policies
+# Important Rules and Regulations

@@ -14,11 +14,12 @@
 
 ### Learning at Kibo
 
-- [Learning at Kibo](lessons/week-2/week-2.md)
-    - [Google account & Zoom Setup](lessons/week-2/accounts.md)
-    - [Computer Setup](lessons/week-2/computer-setup.md)
-    - [Pre-work (typing, python)](lessons/week-2/pre-work.md)
-    - [Assignment](lessons/week-2/week2-assignment.md)
+- [Learning at Kibo](lessons/learning/overview.md)
+    - [Your Degree: BSc in Computer Science](lessons/learning/yourdegree.md)
+    - [How You Will Learn](lessons/learning/howyoulearn.md)
+    - [Academic Policies](lessons/academic-policies.md)
+    - [Computer Setup](lessons/learning/computersetup.md)
+    - [Assignment](lessons/learning/assignment.md)
 
 ### Orientation
 

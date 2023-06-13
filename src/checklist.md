@@ -6,5 +6,5 @@
 - [ ] Block off your calendar for [orientation and july classes](lessons/welcome/dates.md)
 - [ ] Make arrangements to pay your Term 1 [tuition](lessons/welcome/tuition.md)
 - [ ] Practice typing speed and accuracy with [Speedcoder](lessons/welcome/pre-work.md)
-- [ ] Reviewed Python [basics](lessons/welcome/pre-work.md)
+- [ ] Review Python [basics](lessons/welcome/pre-work.md)
 - [ ] Send ID [photo](lessons/welcome/assignment.md)

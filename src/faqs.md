@@ -11,7 +11,7 @@ Orientation begins on Monday July 3 and class begins on Monday July 10. You may 
 Orientation begins on Monday July 3. Please hold time that week from 4pm-7pm GMT for mandatory orientation activities on Zoom. On Saturday July 8, we will have in-person orientation events in our hubs where you will get to meet Kibo students and staff. You will receive more details the week before orientation. 
 
 #### When will I get my timetable for live classes?
-Classes at Kibo generally take place Monday through Thrusday between 15:00 - 19:00 GMT. Each class meets synchronously once a week via Zoom. 
+Classes at Kibo generally take place Monday through Thursday between 15:00 - 19:00 GMT. Each class meets synchronously once a week via Zoom. 
 
 Below is a schedule of your live classes for the July term. **Note that times below are in GMT. Click the link to convert to your local time zone!**
 
@@ -34,7 +34,7 @@ All course materials will be provided for you, and you do not need to purchase a
 - Headphones or device to enable you to speak clearly
 - Adequate data for work and study
 
-You will be required to use a number of software programs (e.g., Google Workspace, Zoom, Github, etc.) for your classes. All software will be provided at no cost to you, and you will be given a list of software tools to install on your comptuer the week before orientation. You will be provided with a Kibo google account (e.g., yourname@kibo.school) which you will use for all your coursework.
+You will be required to use a number of software programs (e.g., Google Workspace, Zoom, Github, etc.) for your classes. All software will be provided at no cost to you, and you will be given a list of software tools to install on your computer the week before orientation. You will be provided with a Kibo google account (e.g., yourname@kibo.school) which you will use for all your coursework.
 
 ## Payment
 

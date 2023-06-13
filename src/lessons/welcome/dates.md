@@ -35,10 +35,10 @@ Classes begin on Monday July 10. Live classes will take place at the times below
 Take some time this week to review the Kibo School <a href="https://bit.ly/ks-catalog-july2023" target="_blank">catalog</a>.  
 
 The catalog includes important information about Kibo including the academic calendar for next year. Be sure to add the term start and end dates to your planner. The term dates are:
-- July-23 term: July 10 - September 15 2023
+- Jul-23 term: July 10 - September 15 2023
 - Oct-23 term: October 9 - December 15 2023
 - Jan-24 term: January 8 - March 15 2024
-- Jun-24 term: April 8 - June 14 2024
+- Apr-24 term: April 8 - June 14 2024
 
 
 

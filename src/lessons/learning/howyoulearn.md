@@ -34,7 +34,7 @@ Learning at Kibo is 1) **self-directed**, 2) **peer-supported**, 3) **active**, 
 
 Each academic year of the degree is divided into four 10-week terms. During each term, you will take between 4-5 different courses that will be a combination of general education and technical courses. Some courses will be 5 weeks in length, while the majority will run the full 10 weeks of the term. Here is an example of the courses that you will take during the first term of the degree:
 
-**Todo: Add Image**
+![term1](./term1.png)
 
 
 **Your formal learning at Kibo will consist of the following activities:**
@@ -49,13 +49,14 @@ Each academic year of the degree is divided into four 10-week terms. During each
 
 ### So:
 
-**Todo: Add Image**
+![learning1](./learning.png)
 
 ---
 
 ## A View of Your 1st Year at Kibo
 
-**Todo: Add Image**
+
+![year11](./year1.png)
 
 ---
 

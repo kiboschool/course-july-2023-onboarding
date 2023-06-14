@@ -30,7 +30,7 @@ Kibo is committed to educating connected innovators who use technology to solve 
 6. **Build modern software:** Kibo graduates use modern tools and methods to design software solutions, including problem identification, design, development, and documentation.
 7. **Apply computer science principles:** Kibo graduates can apply computer science theory and algorithmic principles to model and design solutions to complex problems.
 
-**Todo: Add Image**
+![outcomes](./outcomes.png)
 
 Summary of the thematic components of the Kibo CS degree.
 
@@ -62,6 +62,6 @@ In the next two years of the program, you build on your technical foundation and
 
 Kibo offers a stackable degree with credentials available at the end of each year of the program. The final credential that you will earn at the end of your third year is a Bachelor's degree in Computer Science. However, after successful completion of year 1 of the program, you will earn a Diploma in Computer Science. And after successful completion of year 2 of the program, you will earn a Higher Diploma in Computer Science.
 
-**Todo: Add Image**
+![degree](./degree.png)
 
 ---

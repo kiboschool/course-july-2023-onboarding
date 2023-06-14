@@ -17,7 +17,7 @@
 - [Learning at Kibo](lessons/learning/overview.md)
     - [Your Degree: BSc in Computer Science](lessons/learning/yourdegree.md)
     - [How You Will Learn](lessons/learning/howyoulearn.md)
-    - [Academic Policies](lessons/academic-policies.md)
+    - [Academic Policies](lessons/learning/academic-policies.md)
     - [Computer Setup](lessons/learning/computersetup.md)
     - [Assignment](lessons/learning/assignment.md)
 

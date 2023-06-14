@@ -1,82 +1,66 @@
-# Pre-work (typing, Python)
+# Your Degree: BSc in Computer Science
+---
 
-Some of the markdown features available to use in lessons. 
+The Bachelor's degree in Computer Science is Kibo’s flagship program. During this degree, you will:
 
-See the `example.md` file to see the source markdown, and open the page [1.1 Example Lesson](./example.md) to see the rendered HTML.
-
-## Links, lists, and emphasis
-
-[Markdown syntax](https://www.markdownguide.org/basic-syntax/) can create:
-
-- lists
-- links
-- _italicized_ and **bold** text for emphasis
-- inline `monospaced / code` formatting
-- multiline code blocks
-
-```python
-name = input("name: ")
-print("hello", name)
-```
-
-We try to stick to `-` for lists, `_` for italics, and `**` for bold. Markdown syntax is
-more permissive -- a single `*` could mean a list or italics.
-
-## Tables
-
-For things like a course schedule, or other tabular information, it's convenient
-to display a table.
-
-| Resource | Purpose | Link |
-|---|---|---|
-| Markdown Tables Generator | Make writing tables easier | [Link](https://www.tablesgenerator.com/markdown_tables) |
-
-## Insets
-
-You can inset notes to draw attention, using blockquotes or the `<aside>` tag.
-
-> blockquote
-> uses the `>` character
+- Become skilled programmers in multiple modern programming languages.
+- Learn the theoretical underpinnings of computer science and understand how to solve problems through the development of algorithms and programs.
+- Explore seminal developments in computing and investigate the current ways that technology is shaping society.
+- Delve deeper into specific areas of interest (e.g., web and mobile development, data science, machine learning & artificial intelligence).
+- Use industry experiences to engage in the authentic practice of technical and professional skills.
+- Build a capstone project that demonstrates the depth of your knowledge and serves as a springboard for further career or advanced study.
 
 <aside>
-
-  Aside uses inline HTML
+💡 **You can explore the courses in the degree program [here](https://curriculum.kibo.school/).**
 
 </aside>
 
-## Toggle (details/summary)
+---
 
-To have content that hides and shows with an arrow, use the `<details>` and
-`<summary>` tags.
+## Program Learning Outcomes
 
-<details><summary>Summary is the 'title' of the toggle</summary>
+Kibo is committed to educating connected innovators who use technology to solve pressing problems. Therefore, our degree is intentionally designed to produce graduates who:
 
-The other content within `<details>` is hidden until toggled open.
+1. **Learn continuously:** Kibo graduates are self-directed and persistent learners who demonstrate a belief in their ability to grow their knowledge and skills. They can set learning goals, implement strategies to acquire and apply new knowledge, and reflect on their learning.
+2. **Think analytically:** Kibo graduates can analyze and evaluate diverse information, experiences, and multiple points of view. They use appropriate strategies and frameworks to evaluate problems and make decisions.
+3. **Behave ethically:** Kibo graduates recognize ethical and professional responsibilities, use moral principles to guide their thinking, and consider the individual and societal impacts of their decisions.
+4. **Interact effectively:** Kibo graduates communicate thoughtfully and effectively in writing, speaking, and non-verbal exchange. They can work in teams to accomplish a common purpose, including setting goals, maintaining individual accountability, giving and receiving feedback, and identifying and resolving interpersonal conflicts.
+5. **Lead successfully:** Kibo graduates can envision future goals and outcomes, and outline and prioritize activities to meet those goals. They strive for professional and personal excellence.
+6. **Build modern software:** Kibo graduates use modern tools and methods to design software solutions, including problem identification, design, development, and documentation.
+7. **Apply computer science principles:** Kibo graduates can apply computer science theory and algorithmic principles to model and design solutions to complex problems.
 
-**You can have other kinds of content within a toggle.**
+**Todo: Add Image**
 
-I frequently use it to hide videos or other embeds that are optional viewing.
+Summary of the thematic components of the Kibo CS degree.
 
-</details>
+To achieve the above outcomes you will take courses in both the general education and computer science domains.
 
+### **General Education curriculum**
 
-## Youtube Embed
+The general education curriculum helps you develop critical [**human skills**](https://jwel.mit.edu/human-skills-matrix) that support your ability to use technology to drive positive impact. It aims to create emotionally intelligent and purpose-driven computer science graduates. General education courses fall into two main categories:
 
-* We prefer youtube for video embeds; it has better availability for students than other video hosts
-* Use "Unlisted" for videos
-* Use the wrapping div (copy paste from this example and update the youtube embed `src`) instead of the default youtube embed. The default does not resize flexibly.
+**Leadership:** These courses help you develop foundational skills for managing yourself and interacting effectively with others. During the first year, you will learn how to become successful self-directed learners, improve your written and verbal communication, and learn to collaborate effectively with peers. In later years, you will complete courses on the ethical implications of technological innovation, so that you are prepared to be responsible professionals who can reflect on the consequences of the technologies that you create.  The degree culminates with you applying design thinking to your lives and vocation, to support you in making meaningful plans for your life after Kibo.
 
-<div class="embed"><iframe src="https://www.youtube.com/embed/jfa-YLyanFw" title="Weather - Reading from API Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+***Courses under this category include: Optimizing Your Learning, Communicating for Success, Ethics in Tech, Designing Your Future.***
 
-## Other kinds of embeds
+**Impact:** These courses challenge you to think critically about global problems, and ideate and implement technology solutions. You will first investigate the role that technology has played in addressing some of the world’s most intractable social and economic development challenges. Then you will select a challenge and work with your peers to create a technology solution that is meaningful to you. Through these courses, you will go from problem analysis through ideation, prototyping, iteration, and business model development, and are equipped with tools to pursue an entrepreneurial path should that be of interest.
 
-Other tools we've embedded in the past include
+***Courses under this category include: Engineering for Development, Challenge Studio 1.***
 
-- Padlet
-- Google Forms
-- Typeform
-- Replit
+### Technical CS curriculum
 
-Typically, they have an iframe / embed in their 'share' settings that you can copy. To make it look nice on our page, use the wrapping div like the Youtube example above. 
+The technical curriculum is designed to expose you to a breadth of topics in computer science, along with the requisite work experience to launch an impactful career.
 
-Remove any other styles from what you copied, and add `<div class="embed">` around the iframe.
+The technical curriculum begins with introductory courses that provide a foundation in computer science and web development in the first year of the degree. You learn the theoretical underpinnings of computer science and understand how to solve problems through the development of algorithms and programs. You explore seminal developments in computing and investigate the current ways that technology is shaping society. You then consolidate your knowledge by building a web application and completing an industry experience (e.g. an internship). 
+
+In the next two years of the program, you build on your technical foundation and deepen your knowledge of computer science. Technical coursework delves deeper into computing, with a focus on systems, advanced algorithms, and understanding large networks. You can also take courses to specialize in particular areas of interest (e.g., web and mobile development, data science, machine learning & artificial intelligence). Through industry experience, you continue to engage in the authentic practice of technical and professional skills.
+
+---
+
+## A Stackable Degree
+
+Kibo offers a stackable degree with credentials available at the end of each year of the program. The final credential that you will earn at the end of your third year is a Bachelor's degree in Computer Science. However, after successful completion of year 1 of the program, you will earn a Diploma in Computer Science. And after successful completion of year 2 of the program, you will earn a Higher Diploma in Computer Science.
+
+**Todo: Add Image**
+
+---

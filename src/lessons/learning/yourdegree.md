@@ -11,6 +11,7 @@ The Bachelor's degree in Computer Science is Kibo’s flagship program. During t
 - Build a capstone project that demonstrates the depth of your knowledge and serves as a springboard for further career or advanced study.
 
 <aside>
+  
 💡 **You can explore the courses in the degree program [here](https://curriculum.kibo.school/).**
 
 </aside>

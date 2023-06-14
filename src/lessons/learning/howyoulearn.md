@@ -56,7 +56,7 @@ Each academic year of the degree is divided into four 10-week terms. During each
 ## A View of Your 1st Year at Kibo
 
 
-![year11](./year1.png)
+![year1](./year1.png)
 
 ---
 

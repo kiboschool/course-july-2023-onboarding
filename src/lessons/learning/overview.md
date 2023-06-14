@@ -12,10 +12,12 @@
   <iframe width="560" height="315" src="https://www.youtube.com/embed/BG-9XWDG9AE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
+**Todo: Record and swtich out above video**
+
 ## Learning Outcomes
 After completing this lesson, you will:
 - Understand what classes you will take, and topics you will learn at Kibo
-- Understand how the learning experience at Kibo is expected
-- Understand Kibo's academic policies 
+- Understand how learning happens at Kibo and what is expected of you
+- Understand Kibo's key academic policies 
 - Setup your Kibo accounts
 

@@ -18,17 +18,22 @@
     - [Your Degree: BSc in Computer Science](lessons/learning/yourdegree.md)
     - [How You Will Learn](lessons/learning/howyoulearn.md)
     - [Academic Policies](lessons/learning/academic-policies.md)
-    - [Computer Setup](lessons/learning/computersetup.md)
     - [Assignment](lessons/learning/assignment.md)
 
-### Orientation
+### Tech Setup
+- [Computer Setup](#)
+    - [Academic Accounts](#)
+    - [Computer Setup](lessons/setup/computer-setup.md)
+    - [The Kibo Community](#)
+    - [Assignment](#)
 
-- [Orientation](lessons/week-3/week-3.md)
-    - [What You Will learn](lessons/week-3/what.md)
-    - [How You Will learn](lessons/week-3/how.md)
-    - [Policies](lessons/week-3/policies.md)
-    - [Success Tips](lessons/week-3/success-tips.md)
-    - [Assignment](lessons/week-3/week3-assignment.md)
+
+### Start Class
+
+- [Starting Class](#)
+    - [Woolf University](#)
+    - [Success Tips](#)
+    - [Assignment](#)
 
 [Frequently Asked Questions](faqs.md)
 [Checklist](checklist.md)

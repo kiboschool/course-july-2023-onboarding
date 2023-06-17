@@ -23,6 +23,6 @@ Next week, we will share a computer setup guide with information on accounts and
 ## Review the checklist
 Once you complete the above, be sure to review the [checklist](/checklist.md) for a list of taks that you should have completed up to this point. 
 
-Questions? Comments? 
+## 🙋🏿 Questions? Comments? 
 - Email admissions@kibo.school
 - Send us a <a href="https://bit.ly/WhatsAppKibo" target="_blank">WhatsApp message</a>

@@ -8,3 +8,5 @@
 - [ ] Practice typing speed and accuracy with [Speedcoder](lessons/welcome/pre-work.md)
 - [ ] Review Python [basics](lessons/welcome/pre-work.md)
 - [ ] Send ID [photo](lessons/welcome/assignment.md)
+- [ ] Confirm your current [location](lessons/learning/assignment.md)
+- [ ] Pick up your [laptop](lessons/learning/assignment.md)

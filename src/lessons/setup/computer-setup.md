@@ -1,4 +1,5 @@
-# Pre-work (typing, Python)
+
+# Computer Setup
 
 Some of the markdown features available to use in lessons. 
 

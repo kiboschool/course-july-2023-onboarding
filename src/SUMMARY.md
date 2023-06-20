@@ -12,23 +12,30 @@
     - [Sharpen your skills](lessons/welcome/pre-work.md)
     - [Assignment](lessons/welcome/assignment.md)
 
-<!--
 ### Learning at Kibo
 
-- [Learning at Kibo](lessons/week-2/week-2.md)
-    - [Google account & Zoom Setup](lessons/week-2/accounts.md)
-    - [Computer Setup](lessons/week-2/computer-setup.md)
-    - [Pre-work (typing, python)](lessons/week-2/pre-work.md)
-    - [Assignment](lessons/week-2/week2-assignment.md)
+- [Learning at Kibo](lessons/learning/overview.md)
+    - [Your Degree: BSc in Computer Science](lessons/learning/yourdegree.md)
+    - [How You Will Learn](lessons/learning/howyoulearn.md)
+    - [Academic Policies](lessons/learning/academic-policies.md)
+    - [Assignment](lessons/learning/assignment.md)
 
-### Orientation
+<!--
+### Tech Setup
+- [Computer Setup](#)
+    - [Academic Accounts](#)
+    - [Computer Setup](lessons/setup/computer-setup.md)
+    - [The Kibo Community](#)
+    - [Assignment](#)
 
-- [Orientation](lessons/week-3/week-3.md)
-    - [What You Will learn](lessons/week-3/what.md)
-    - [How You Will learn](lessons/week-3/how.md)
-    - [Policies](lessons/week-3/policies.md)
-    - [Success Tips](lessons/week-3/success-tips.md)
-    - [Assignment](lessons/week-3/week3-assignment.md)
+
+### Start Class
+
+- [Starting Class](#)
+    - [Woolf University](#)
+    - [Success Tips](#)
+    - [Assignment](#)
+
 -->
 
 [Frequently Asked Questions](faqs.md)

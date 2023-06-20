@@ -20,7 +20,7 @@ TODO: Insert some images from in-person events
 ---
 
 > 🗣️ **“Those who went ahead of us in the forest bent the early trees so that they grew to signals.”**
-> - Margaret Atwood
+> - Margaret Atwood 
 
 ---
 

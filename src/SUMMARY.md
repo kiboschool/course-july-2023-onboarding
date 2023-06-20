@@ -20,7 +20,7 @@
     - [Academic Policies](lessons/learning/academic-policies.md)
     - [Assignment](lessons/learning/assignment.md)
 
-<!--
+
 ### Tech Setup
 - [Computer Setup](#)
     - [Academic Accounts](#)
@@ -36,7 +36,7 @@
     - [Success Tips](#)
     - [Assignment](#)
 
--->
+
 
 [Frequently Asked Questions](faqs.md)
 [Checklist](checklist.md)

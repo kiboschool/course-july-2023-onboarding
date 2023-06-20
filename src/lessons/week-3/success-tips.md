@@ -1,82 +1,31 @@
 # Success Tips
-
-Some of the markdown features available to use in lessons. 
-
-See the `example.md` file to see the source markdown, and open the page [1.1 Example Lesson](./example.md) to see the rendered HTML.
-
-## Links, lists, and emphasis
-
-[Markdown syntax](https://www.markdownguide.org/basic-syntax/) can create:
-
-- lists
-- links
-- _italicized_ and **bold** text for emphasis
-- inline `monospaced / code` formatting
-- multiline code blocks
-
-```python
-name = input("name: ")
-print("hello", name)
-```
-
-We try to stick to `-` for lists, `_` for italics, and `**` for bold. Markdown syntax is
-more permissive -- a single `*` could mean a list or italics.
-
-## Tables
-
-For things like a course schedule, or other tabular information, it's convenient
-to display a table.
-
-| Resource | Purpose | Link |
-|---|---|---|
-| Markdown Tables Generator | Make writing tables easier | [Link](https://www.tablesgenerator.com/markdown_tables) |
-
-## Insets
-
-You can inset notes to draw attention, using blockquotes or the `<aside>` tag.
-
-> blockquote
-> uses the `>` character
-
-<aside>
-
-  Aside uses inline HTML
-
-</aside>
-
-## Toggle (details/summary)
-
-To have content that hides and shows with an arrow, use the `<details>` and
-`<summary>` tags.
-
-<details><summary>Summary is the 'title' of the toggle</summary>
-
-The other content within `<details>` is hidden until toggled open.
-
-**You can have other kinds of content within a toggle.**
-
-I frequently use it to hide videos or other embeds that are optional viewing.
-
-</details>
+---
 
 
-## Youtube Embed
+> 📺 Watch the founding students give some tips on how to succeed at Kibo. (x:xx) 
 
-* We prefer youtube for video embeds; it has better availability for students than other video hosts
-* Use "Unlisted" for videos
-* Use the wrapping div (copy paste from this example and update the youtube embed `src`) instead of the default youtube embed. The default does not resize flexibly.
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/4c4LGSWnkZ8"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
-<div class="embed"><iframe src="https://www.youtube.com/embed/jfa-YLyanFw" title="Weather - Reading from API Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+---
 
-## Other kinds of embeds
+## Top 5 Tips for Succeeding and Overcoming Challenges at Kibo
 
-Other tools we've embedded in the past include
+**Tip 1**: Starting a new degree can seem overwhelming as you face new courses that bring new challenges. You may also feel like you do not have a rhythm for your work yet. That is okay. The degree program has just begun, and it is okay to be anxious or worried. However, remember that you can turn your anxiety into productivity by channeling your energy into the motivation you need to get your work done.
 
-- Padlet
-- Google Forms
-- Typeform
-- Replit
+**Tip 2**: As you move towards your academic goals, you will face challenges. Situations and circumstances might not always be the best to support your goals. In these times, don't let challenges keep you down. Routinely reflect on why you enrolled in Kibo and are pursuing a degree in Computer Science. Your ‘why’ can help you strengthen your resolve to not give up and keep pushing. Remember, each step you take brings you closer to achieving your educational goals, unlocking your potential, and making a positive impact on the world around you. 
 
-Typically, they have an iframe / embed in their 'share' settings that you can copy. To make it look nice on our page, use the wrapping div like the Youtube example above. 
+**Tip 3**: As James Clear says, "We do not rise to the level of our goals, we fall to the level of our systems." So While having good goals is a critical step, make sure you utilize good learning habits that will help you to achieve your goals. 
 
-Remove any other styles from what you copied, and add `<div class="embed">` around the iframe.
+
+**Tip 4**: Don't be discouraged by setbacks. Use them as opportunities for improvement. Take a moment to reflect on what went wrong, and move forward with renewed determination. Stay focused and organized. Break down your work into manageable tasks and create a schedule to help you stay on track or catch up. Prioritize your work and tackle the most important tasks first. Take a moment to visualize your success. Picture yourself completing your work with confidence and satisfaction. Then take action by completing them.
+
+
+**Tip 5**: Kibo's value, 'Better Together’, is a testament to the importance we place on supporting each other in our community. In order to do this effectively, it is important that we build a healthy culture of open and honest communication. In case you are not able to show up for your team meeting, attend a class, meet with your advisor or submit an assignment on time, it is good practice to ensure that you communicate the same. This will ensure that we are all on the same page and we are able to support each other effectively. As John Powell said, "Communication works for those who work at it."
+
+---
+
+> 📺 Watch the founding students give some advice on how to keep going when you face challenges at Kibo. (x:xx) 
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/PWr07yATNlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
+
+---

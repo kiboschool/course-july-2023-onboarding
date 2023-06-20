@@ -8,6 +8,7 @@
 - Then join the Kibo Degree Program Discord server by clicking this link and follow the instructions to join: [https://discord.gg/Bqp2s5MY](https://discord.gg/Bqp2s5MY)
 
 <aside>
+    
 ⚠️ **You should download the Discord app on both your laptop and your mobile. It is the platform that Kibo School uses for the majority of our communication, and you will need to check it regularly.**
 
 </aside>

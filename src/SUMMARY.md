@@ -26,7 +26,6 @@
     - [Academic Accounts](#)
     - [Computer Setup](lessons/setup/computer-setup.md)
     - [The Kibo Community](lessons/setup/community.md)
-    - [Joining Our Community Platform](lessons/setup/discord.md)
     - [Assignment](#)
 
 

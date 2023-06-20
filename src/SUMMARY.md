@@ -33,7 +33,7 @@
 
 - [Starting Class](#)
     - [Woolf University](#)
-    - [Success Tips](#)
+    - [Success Tips](lessons/week-3/success-tips.md)
     - [Assignment](#)
 
 

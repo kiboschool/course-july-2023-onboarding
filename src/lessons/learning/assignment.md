@@ -21,6 +21,10 @@ In the coming week, you will receive an email and WhatsApp with details of when 
 Next week, we will share a computer setup guide with information on accounts and tools to install on your laptop. 
 
 ## Send your ID photo
+Note:
+
+- Your submitted image will not be displayed on your admission portal.
+- The submitted photo will be your display image on your Kibo account and image on your Kibo student identification card.
 
 If you have not already done so, please send your ID photo as requested [here](/lessons/welcome/assignment.md).
 

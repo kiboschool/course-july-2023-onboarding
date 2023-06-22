@@ -12,17 +12,18 @@ At Kibo, we believe that community is one of the most important parts of an exce
 
 ![orientation](./20221023_170005.jpg)
 
-### Nigeria
+### Nigeria 🇳🇬
 
 ![lagos](./16.jpg)
 
-### Kenya
 
+
+### Kenya 🇰🇪
 
 ![nbo](./IMG_5855.jpg)
 
 
-### Ghana
+### Ghana 🇬🇭
 
 ![accra](./IMG_1398.jpg)
 

@@ -10,15 +10,28 @@ At Kibo, we believe that community is one of the most important parts of an exce
 
 ## Kibo In Real Life
 
-TODO: Insert some images from in-person events
+![orientation](./20221023_170005.jpg)
 
 ### Nigeria
 
+![lagos](./16.jpg)
 
 ### Kenya
 
 
+![nbo](./IMG_5855.jpg)
+
+
 ### Ghana
+
+![accra](./IMG_1398.jpg)
+
+---
+
+## The Squad Cup
+
+> 📺 Watch this video from Oyin, a Kibo student advisor, to learn more about the Squad Cup
+ 
 
 ---
 

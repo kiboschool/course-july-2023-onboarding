@@ -1,9 +1,12 @@
 # The Kibo Community
 ---
 
-> 📺 Learn more about the Kibo Community from our student advisor, Oyin.
+At Kibo, we believe that community is one of the most important parts of an excellent learning experience. In fact, one of our values is "Better Together".  On this page, you can learn more about the different parts of the community experience at Kibo, both online and in person.
 
-TODO: Insert Oyin video
+
+> 📺 Learn what Maryanna, a founding student in Kenya, has to say about the community at Kibo.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/W4C4e7buFqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
 ## Kibo In Real Life
 

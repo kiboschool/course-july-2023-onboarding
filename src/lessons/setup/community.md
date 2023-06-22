@@ -30,6 +30,8 @@ At Kibo, we believe that community is one of the most important parts of an exce
 
 ## The Squad Cup
 
+The Squad Cup is Kibo’s intramural competition between squads. You can think of it as our version of the Hogwarts House Cup. During the term, squads complete activities to win points toward the Cup, and the squad with the most points at the end of each term is crowned the winner. 
+
 > 📺 Watch this video from Oyin, a Kibo student advisor, to learn more about the Squad Cup
  
 

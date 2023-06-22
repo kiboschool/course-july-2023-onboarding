@@ -30,7 +30,6 @@
 
 Follow the instructions on the screen and complete the rest of the onboarding steps.
 
----
 
 ## Step 3 - Set Up Your Profile
 
@@ -50,17 +49,15 @@ To customize the rest of your profile:
 2. Upload a profile photo as your **avatar.**
 3. In the About Me section, add a **description** with a sentence or two about who you are, or include a quote you like.
 
----
 
-### Step 4 - Read, React, and Reply to Your Classmates’ Introductions
+## Step 4 - Read, React, and Reply to Your Classmates’ Introductions
 
 Spend some time reading through your classmates’ introductions. 
 
 Maybe you’ll find someone with a similar interest as you or someone who lives in the same city as you! You can create a thread to write a reply to one of the posts or add your thoughts to a thread that has already been created. If you press the Control key and click on the message that you want to respond to, you will get a small menu with different options for what you can do. You can also click the emojis symbol with a + sign to add an emoji reaction to the post.
 
----
 
-### Step 5 - Review the Server Guide 
+## Step 5 - Review the Server Guide 
 
 Review the Server Guide to watch a video walkthrough of our server and get links to additional resources on how to use Discord.
 

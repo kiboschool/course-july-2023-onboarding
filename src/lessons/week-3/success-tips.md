@@ -1,35 +1,39 @@
 # Success Tips
 ---
 
-> 📺 Watch the founding students give some tips on how to succeed at Kibo. (x:xx) 
+> 📺 Watch the founding students give some tips on how to succeed at Kibo. (2:42) 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/4c4LGSWnkZ8"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
 ---
 
-## Top 5 Tips for Succeeding and Overcoming Challenges at Kibo
+## 8 Tips for Succeeding at Kibo
 
-**Tip 1**: Starting a new degree can seem overwhelming as you face new courses that bring new challenges. You may also feel like you do not have a rhythm for your work yet. That is okay. The degree program has just begun, and it is okay to be anxious or worried. However, remember that you can turn your anxiety into productivity by channeling your energy into the motivation you need to get your work done.
+**Set Clear Goals:** Having a clear vision will motivate you and guide your decisions.
 
-**Tip 2**: As you move towards your academic goals, you will face challenges. Situations and circumstances might not always be the best to support your goals. In these times, don't let challenges keep you down. Routinely reflect on why you enrolled in Kibo and are pursuing a degree in Computer Science. Your ‘why’ can help you strengthen your resolve to not give up and keep pushing. Remember, each step you take brings you closer to achieving your educational goals, unlocking your potential, and making a positive impact on the world around you. 
+**Plan Your Time:** Develop a study schedule and stick to it. Allocate specific time slots for studying, attending classes, working on projects, and reviewing course materials. 
 
-**Tip 3**: As James Clear says, "We do not rise to the level of our goals, we fall to the level of our systems." So While having good goals is a critical step, make sure you utilize good learning habits that will help you to achieve your goals. 
+**Attend Classes and Engage:** Actively participate in your classes and take notes. Engage in discussions, ask questions, and seek clarification whenever needed. Your instructors and peers are there to help, and being actively involved will deepen your understanding. 
 
+**Engage with your course materials and submit assignments:** Engaging with course materials will help you have a deeper understanding of what you’re learning. Also, don’t wait until the last minute to start your assignments; submit your assignments on time.
 
-**Tip 4**: Don't be discouraged by setbacks. Use them as opportunities for improvement. Take a moment to reflect on what went wrong, and move forward with renewed determination. Stay focused and organized. Break down your work into manageable tasks and create a schedule to help you stay on track or catch up. Prioritize your work and tackle the most important tasks first. Take a moment to visualize your success. Picture yourself completing your work with confidence and satisfaction. Then take action by completing them.
+**Practice Regularly:** Regular practice is essential. Code, solve problems, and work on programming projects to build your skills. The more you practice, the more comfortable and proficient you'll become.
 
+**Collaborate:** Collaborate with your colleagues on projects and assignments to learn from different perspectives and enhance your problem-solving abilities. Teach others what you know too. It helps to deepen your understanding
 
-**Tip 5**: Kibo's value, 'Better Together’, is a testament to the importance we place on supporting each other in our community. In order to do this effectively, it is important that we build a healthy culture of open and honest communication. In case you are not able to show up for your team meeting, attend a class, meet with your advisor or submit an assignment on time, it is good practice to ensure that you communicate the same. This will ensure that we are all on the same page and we are able to support each other effectively. As John Powell said, "Communication works for those who work at it."
+**Utilize Resources:** Take advantage of the resources available to you, such as online classes, discord channel discussions, office hours, student advisory, and other academic support services.
+
+**Be Persistent and Seek Help:** Learning at Kibo is rigorous, but don't get discouraged. Persevere through difficulties and seek help when needed. Consult your instructors or advisors for guidance and clarification.
 
 ---
 
-> 📺 Watch the founding students give some advice on how to keep going when you face challenges at Kibo. (x:xx) 
+> 📺 Watch the founding students give some advice on how to keep going when you face challenges at Kibo. (3:03) 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/PWr07yATNlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
 ---
 
-> 📺 Watch this video to learn what it feels like to be a student at Kibo. (x:xx)
+> 📺 Watch this video to learn what it feels like to be a student at Kibo. (1:29)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/-o5oiHr4ax4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 

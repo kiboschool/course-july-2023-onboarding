@@ -14,6 +14,6 @@
 
 ## Learning Outcomes
 After completing this lesson, you will:
-- Setup your Kibo Google Workspace, Zoom and Mentimeter accounts
+- Setup your Kibo Google Workspace, Zoom, and Mentimeter accounts
 - Setup your development environment
 - Join Discord and introduce yourself to the Kibo Community on Discord

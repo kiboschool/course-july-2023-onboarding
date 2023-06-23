@@ -8,14 +8,14 @@ This lesson includes information to setup your computer for school work.
 </aside>
 
 ## Setup Your Computer
-Visit the <a href="https://github.com/kiboschool/setup-guides/tree/main" target="_blank">setup guide</a> and follow the instructions to fully setup your computer for school work. You will complete three steps:
+This <a href="https://github.com/kiboschool/setup-guides/tree/main" target="_blank"> guide</a> has instructions to fully setup your computer for school work. You will complete three steps:
 
-- Setup your dev environment
-- Finish setting up Academic Software and Accounts 
-- Setup Git and Github
+1. Setup your dev environment
+2. Setting up additional Academic Software and Accounts
+3. Setup Git and Github
 
-## Get Help
-If you have any issues while setting up your computer, you should:
+## 🙋🏿 Need Help?
+If you have any questions or issues while setting up your computer, you should:
 
 - Refer to the <a href="https://github.com/kiboschool/setup-guides#questions" target="_blank">Questions</a> section of the guide
 - Post your questions in the <a href="https://discord.com/channels/1018949047626760252/1121851322111643798" target="blank">#computer-setup-help</a> Discord channel

@@ -23,7 +23,7 @@
 
 ### Tech Setup
 - [Computer Setup](lessons/setup/overview.md)
-    - [Academic Accounts](#)
+    - [Academic Accounts](lessons/setup/academic-accounts.md)
     - [Computer Setup](lessons/setup/computer-setup.md)
     - [The Kibo Community](lessons/setup/community.md)
     - [Join Our Community Platform](lessons/setup/discord.md)

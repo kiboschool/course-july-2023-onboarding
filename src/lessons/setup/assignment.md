@@ -21,22 +21,28 @@
 
 
 ### Information for full-time students 
-You will take 4 classes during the term. Click the links below to sign up for your classes. 
+You will take 4 classes during the term. Click the links below to register for each classes. 
 
-- <a href="https://zoom.us/meeting/register/tJMsdOigrTIrHdGV2pgLi8Ya1rRiUPOuB3pj" target="_blank">Mondays, 5:30pm GMT, Web Development Fundamentals</a>
-- <a href="https://zoom.us/meeting/register/tJ0lde6tqz8pHtYMPXLJ2mokeB-UMmmxTmdk" target="_blank">Tuesdays, 5:30pm GMT, Optimizing Your Learning</a>
-- <a href="https://zoom.us/meeting/register/tJYuf-yuqzsuG9TuZ2GkmvhZfC0d0qdJ4hY4" target="_blank">Wednesday 3:00pm GMT, Programming 1</a>
-- <a href="https://zoom.us/meeting/register/tJEuc-GprTovE9yKT5--jdWYdisA9MEiuOXm" target="_blank">Thursday 5:30pm GMT, Communicating for Success - Writing</a>
+- <a href="https://zoom.us/meeting/register/tJMsdOigrTIrHdGV2pgLi8Ya1rRiUPOuB3pj" target="_blank">Web Development Fundamentals</a>
+  - Live class meets on Zoom on Monday at 5:30pm GMT
+- <a href="https://zoom.us/meeting/register/tJ0lde6tqz8pHtYMPXLJ2mokeB-UMmmxTmdk" target="_blank">Optimizing Your Learning</a>
+  - Live class meets on Zoom on Tuesday at 5:30pm GMT. This is a half-term, 5-week class that will end on August 8
+- <a href="https://zoom.us/meeting/register/tJYuf-yuqzsuG9TuZ2GkmvhZfC0d0qdJ4hY4" target="_blank"> Programming 1</a>
+  - Live class meets on Zoom on Wednesday 3:00pm GMT
+- <a href="https://zoom.us/meeting/register/tJEuc-GprTovE9yKT5--jdWYdisA9MEiuOXm" target="_blank">Communicating for Success - Writing</a>
+  - Live class meets on Zoom on Thursday at 5:30pm GMT
 
 
 ### Information for part-time students
 You will take 2 classes during the term. Click the links below to sign up for your classes. 
 
-- <a href="https://zoom.us/meeting/register/tJ0lde6tqz8pHtYMPXLJ2mokeB-UMmmxTmdk" target="_blank">Tuesdays, 5:30pm GMT, Optimizing Your Learning</a>
-- <a href="https://zoom.us/meeting/register/tJYuf-yuqzsuG9TuZ2GkmvhZfC0d0qdJ4hY4" target="_blank">Wednesday 3:00pm GMT, Programming 1</a>
+- <a href="https://zoom.us/meeting/register/tJ0lde6tqz8pHtYMPXLJ2mokeB-UMmmxTmdk" target="_blank">Optimizing Your Learning</a>
+  - Live class meets on Zoom on Tuesday at 5:30pm GMT. This is a half-term, 5-week class that will end on August 8
+- <a href="https://zoom.us/meeting/register/tJYuf-yuqzsuG9TuZ2GkmvhZfC0d0qdJ4hY4" target="_blank"> Programming 1</a>
+  - Live class meets on Zoom on Wednesday 3:00pm GMT
 
 <aside>
- 💡 You should receive a confirmation email after registeraton. Open each email and click "Add to Google Calendar" to add the class meetings to your Kibo Google Calendar. 
+ 💡 You will receive a confirmation email after registeraton. Open each email and click "Add to Google Calendar" to add the class meetings to your calendar. 
 
 </aside>
 

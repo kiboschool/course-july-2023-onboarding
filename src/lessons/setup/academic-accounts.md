@@ -40,11 +40,3 @@ Ensuring that you are signed in on web and desktop will make it seamless for you
 
 ## 3 - Download the Mentimeter Zoom App
 Mentimeter is an interactive presentation tool that you will use frequently for polls, quizzes, Q&As and more. Mentimeter has a Zoom app that allows you to join and reply from your Zoom meeting. Ensure that you are signed in to Zoom (on web and desktop) then <a href="https://marketplace.zoom.us/apps/D6gsxPEXS8eNr9d6gNFCIg" target="_blank">Download Mentimeter</a>
-
-
-
-
-
-
-
----

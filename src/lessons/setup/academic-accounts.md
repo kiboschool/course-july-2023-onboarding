@@ -18,25 +18,28 @@ The key account for your learning will be your Google Kibo Account, e.g., yourna
 
 ### Your account credentials
 Your username is {yourfirstname}.{yourlastname}@kibo.school 
+
 Your password is your Kibo ID, e.g., "KID123456789" 
 
 Once you’ve watched the video and are ready to set up your account:
 1. Open Google Chrome browser
-2. In Chrome browser, at the top right, click Profile  then Add
-3. Click Sign In then sign in the with the email address and password that was shared with you via email 
+2. At the top right, select "Profile" icon then Add 
+3. Click Sign In. Then sign in the with your Kibo email address and password
 
 You will be required to update your password the first time you login. We suggest you use a <a href="https://github.com/kiboschool/setup-guides/blob/main/academic-software.md" target="_blank">password manager</a> to create and store passwords.
 
+You will also be required to use 2 factor authentication to keep your account secure. 
+
 ## 2 - Create a Zoom Account
-Once youset up your Kibo Google Account, <a href="https://zoom.us/signup" target="_blank">create a Zoom account using your Kibo email</a>. Simply use the <a href="https://zoom.us/google_oauth_signin" target="_blank">Sign in with Google option</a> and select your Kibo account.
+After setting up your Kibo Google Account, <a href="https://zoom.us/signup" target="_blank">create a Zoom account using your Kibo email</a>. Use the <a href="https://zoom.us/google_oauth_signin" target="_blank">Sign in with Google option</a> and select your Kibo account.
 
 <aside>
    ❗ Your Kibo classes will require you to be logged in to zoom with a kibo.school account. So, even if you already have another Zoom account, you must create a new one with your kibo.school email.
 </aside>
 
-After creating your zoom account:
+After creating your Zoom account:
 1. Download the Zoom desktop client <a href="https://zoom.us/download", target="_blank">here.</a> Open the desktop app and sign in with your Kibo account
 2. Go to the zoom web app (https://zoom.us/), click "Sign In" at the top right, and sign in with your Kibo account
 
 ## 3 - Download the Mentimeter Zoom App
-Mentimeter is an interactive presentation tool that you will use frequently for polls, quizzes, Q&As and more. Mentimeter has a Zoom app that allows you to join and reply from your Zoom meeting. Ensure that you are signed in to Zoom (on web and desktop) then <a href="https://marketplace.zoom.us/apps/D6gsxPEXS8eNr9d6gNFCIg" target="_blank">Download Mentimeter</a>
+Mentimeter is an interactive presentation tool that you will use frequently in your classes to engage with polls, quizzes, Q&As and more. Mentimeter has a Zoom app that allows you to join and reply from your Zoom meeting. Ensure that you are signed in to Zoom (on web and desktop) then <a href="https://marketplace.zoom.us/apps/D6gsxPEXS8eNr9d6gNFCIg" target="_blank">Download Mentimeter</a>

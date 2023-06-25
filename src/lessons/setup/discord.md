@@ -30,28 +30,30 @@ Go to the [Introductions channel](https://discord.com/channels/10189490476267602
 
 1. Find your username in the right sidebar.
 
-[step1]
+![step1](./Step1.png)
 
 2. Click on your username in the right sidebar, then click the pencil icon to edit your profile.
 
-[step2]
+![step2](./Step2.png)
 
 3. Select “Edit Server Profile"
 
-[step3]
+![step3](./Step3.png)
 
 4. Update your **Server Nickname** to your first name and last name initial **(e.g., Oyin A, Ope B)**. This will change your nickname in the Kibo Degree Program server only.
 
-[step4]
+![step4](./Step4.png)
 
 To customize the rest of your profile:
 
 1. Now go to "User Profile".
 
-[step5]
+![step5](./Step5.png)
 
 2. Upload a profile photo as your **avatar.**
 3. In the About Me section, add a **description** with a sentence or two about who you are, or include a quote you like.
+
+![step6](./Step6.png)
 
 ## Step 3 - Read, React, and Reply to Your Classmates’ Introductions
 

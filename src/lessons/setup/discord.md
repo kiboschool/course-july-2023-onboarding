@@ -53,9 +53,8 @@ To customize the rest of your profile:
 2. Upload a profile photo as your **avatar.**
 3. In the About Me section, add a **description** with a sentence or two about who you are, or include a quote you like.
 
-![step6](./Step6.png)
 
-## Step 3 - Read, React, and Reply to Your Classmates’ Introductions
+## Step 3 - Read, React, and Reply to Other People's Introductions
 
 Spend some time reading through your classmates’ introductions. 
 

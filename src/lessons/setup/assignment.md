@@ -16,8 +16,8 @@
 
 **💡 Before you begin:
 **
-- Ensure you have completed the [academic accounts setup](/lessons/setup/academic-accounts.md). You will only be able to register with a Kibo account
-- Ensure you are logged in to Zoom on the web
+- Complete the [academic accounts setup](/lessons/setup/academic-accounts.md). You will only be able to register with a Kibo account.
+- Ensure you are logged in to Zoom on the web.
 
 
 ### Information for full-time students 

@@ -60,11 +60,8 @@ Spend some time reading through your classmates’ introductions.
 
 Maybe you’ll find someone with a similar interest as you or someone who lives in the same city as you! You can create a thread to write a reply to one of the posts or add your thoughts to a thread that has already been created. If you press the Control key and click on the message that you want to respond to, you will get a small menu with different options for what you can do. You can also click the emojis symbol with a + sign to add an emoji reaction to the post.
 
-## Step 4 - Review the Server Guide 
 
-Review the Server Guide to watch a video walkthrough of our server and get links to additional resources on how to use Discord.
-
-## Step 5 - Add Your Birthday to the Server [Optional]
+## Step 4 - Add Your Birthday to the Server [Optional]
 
 Type this message in the #random channel: **/remember-birthday MM-DD** 
 

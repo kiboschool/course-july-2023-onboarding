@@ -1,7 +1,7 @@
 # Academic Accounts
 ---
 
-You will use many accounts and tools for your learning at Kibo. Like a technologist, you will be come adept at using the right tools for the job! 
+You will use many accounts and tools for your learning at Kibo. Like a technologist, you will become adept at using the right tools for the job! 
 
 The key account for your learning will be your Google Kibo Account, e.g., yourname@kibo.school. During your time at Kibo, you will complete lessons, receive communications, and register for and use tools with a  Kibo Google Workspace for Education account. An account has already been created for you. **Going forward, all Kibo-related communications will be sent to this account, and you need to check it daily.** 
 
@@ -38,7 +38,7 @@ After setting up your Kibo Google Account, <a href="https://zoom.us/signup" targ
 </aside>
 
 After creating your Zoom account:
-1. Download the Zoom desktop client <a href="https://zoom.us/download", target="_blank">here.</a> Open the desktop app and sign in with your Kibo account
+1. Download the Zoom desktop client <a href="https://zoom.us/download" target="_blank">here.</a> Open the desktop app and sign in with your Kibo account
 2. Go to the zoom web app (https://zoom.us/), click "Sign In" at the top right, and sign in with your Kibo account
 
 ## 3 - Download the Mentimeter Zoom App

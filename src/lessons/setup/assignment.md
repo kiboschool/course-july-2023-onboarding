@@ -14,8 +14,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SaHSvu3EoWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
-**💡 Before you begin:
-**
+**💡 Before you begin:**
+
 - Complete the [academic accounts setup](/lessons/setup/academic-accounts.md). You will only be able to register with a Kibo account.
 - Ensure you are logged in to Zoom on the web.
 

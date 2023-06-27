@@ -7,7 +7,12 @@
 </aside>
 
 ## Send Your ID Photo
-We will create a Kibo account (yourname@kibo.school) which you will use for your coursework and commmunication. We will also provide you with a physical student identification card, which will enable you to access Kibo's learning spaces and other student discounts. 
+We will create a Kibo account (yourname@kibo.school) which you will use for your coursework and commmunication. We will also provide you with a physical student identification card, which will enable you to access Kibo's learning spaces and other student discounts.
+
+Note:
+
+- Your submitted image will not be displayed on your admissions portal.
+- The submitted photo will be your display image on your Kibo account and image on your Kibo student identification card.
 
 To prepare your accounts and phwyical ID, you need to submit an ID photo. 
 

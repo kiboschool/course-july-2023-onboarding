@@ -1,82 +1,40 @@
 # Success Tips
+---
 
-Some of the markdown features available to use in lessons. 
+> 📺 Watch the founding students give some tips on how to succeed at Kibo. (2:42) 
 
-See the `example.md` file to see the source markdown, and open the page [1.1 Example Lesson](./example.md) to see the rendered HTML.
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/4c4LGSWnkZ8"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
-## Links, lists, and emphasis
+---
 
-[Markdown syntax](https://www.markdownguide.org/basic-syntax/) can create:
+## 8 Tips for Succeeding at Kibo
 
-- lists
-- links
-- _italicized_ and **bold** text for emphasis
-- inline `monospaced / code` formatting
-- multiline code blocks
+**Set Clear Goals:** Having a clear vision will motivate you and guide your decisions.
 
-```python
-name = input("name: ")
-print("hello", name)
-```
+**Plan Your Time:** Develop a study schedule and stick to it. Allocate specific time slots for studying, attending classes, working on projects, and reviewing course materials. 
 
-We try to stick to `-` for lists, `_` for italics, and `**` for bold. Markdown syntax is
-more permissive -- a single `*` could mean a list or italics.
+**Attend Classes and Engage:** Actively participate in your classes and take notes. Engage in discussions, ask questions, and seek clarification whenever needed. Your instructors and peers are there to help, and being actively involved will deepen your understanding. 
 
-## Tables
+**Engage with your course materials and submit assignments:** Engaging with course materials will help you have a deeper understanding of what you’re learning. Also, don’t wait until the last minute to start your assignments; submit your assignments on time.
 
-For things like a course schedule, or other tabular information, it's convenient
-to display a table.
+**Practice Regularly:** Regular practice is essential. Code, solve problems, and work on programming projects to build your skills. The more you practice, the more comfortable and proficient you'll become.
 
-| Resource | Purpose | Link |
-|---|---|---|
-| Markdown Tables Generator | Make writing tables easier | [Link](https://www.tablesgenerator.com/markdown_tables) |
+**Collaborate:** Collaborate with your colleagues on projects and assignments to learn from different perspectives and enhance your problem-solving abilities. Teach others what you know too. It helps to deepen your understanding
 
-## Insets
+**Utilize Resources:** Take advantage of the resources available to you, such as online classes, discord channel discussions, office hours, student advisory, and other academic support services.
 
-You can inset notes to draw attention, using blockquotes or the `<aside>` tag.
+**Be Persistent and Seek Help:** Learning at Kibo is rigorous, but don't get discouraged. Persevere through difficulties and seek help when needed. Consult your instructors or advisors for guidance and clarification.
 
-> blockquote
-> uses the `>` character
+---
 
-<aside>
+> 📺 Watch the founding students give some advice on how to keep going when you face challenges at Kibo. (3:03) 
 
-  Aside uses inline HTML
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/PWr07yATNlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
-</aside>
+---
 
-## Toggle (details/summary)
+> 📺 Watch this video to learn what it feels like to be a student at Kibo. (1:29)
 
-To have content that hides and shows with an arrow, use the `<details>` and
-`<summary>` tags.
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/-o5oiHr4ax4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
-<details><summary>Summary is the 'title' of the toggle</summary>
-
-The other content within `<details>` is hidden until toggled open.
-
-**You can have other kinds of content within a toggle.**
-
-I frequently use it to hide videos or other embeds that are optional viewing.
-
-</details>
-
-
-## Youtube Embed
-
-* We prefer youtube for video embeds; it has better availability for students than other video hosts
-* Use "Unlisted" for videos
-* Use the wrapping div (copy paste from this example and update the youtube embed `src`) instead of the default youtube embed. The default does not resize flexibly.
-
-<div class="embed"><iframe src="https://www.youtube.com/embed/jfa-YLyanFw" title="Weather - Reading from API Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-## Other kinds of embeds
-
-Other tools we've embedded in the past include
-
-- Padlet
-- Google Forms
-- Typeform
-- Replit
-
-Typically, they have an iframe / embed in their 'share' settings that you can copy. To make it look nice on our page, use the wrapping div like the Youtube example above. 
-
-Remove any other styles from what you copied, and add `<div class="embed">` around the iframe.
+---

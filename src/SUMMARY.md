@@ -20,23 +20,24 @@
     - [Academic Policies](lessons/learning/academic-policies.md)
     - [Assignment](lessons/learning/assignment.md)
 
-<!--
+
 ### Tech Setup
-- [Computer Setup](#)
-    - [Academic Accounts](#)
+- [Computer Setup](lessons/setup/overview.md)
+    - [Academic Accounts](lessons/setup/academic-accounts.md)
     - [Computer Setup](lessons/setup/computer-setup.md)
-    - [The Kibo Community](#)
-    - [Assignment](#)
+    - [The Kibo Community](lessons/setup/community.md)
+    - [Join Our Community Platform](lessons/setup/discord.md)
+    - [Assignment](lessons/setup/assignment.md)
 
 
 ### Start Class
 
 - [Starting Class](#)
     - [Woolf University](#)
-    - [Success Tips](#)
+    - [Success Tips](lessons/week-3/success-tips.md)
     - [Assignment](#)
 
--->
+
 
 [Frequently Asked Questions](faqs.md)
 [Checklist](checklist.md)

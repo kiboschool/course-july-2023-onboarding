@@ -18,5 +18,5 @@ This <a href="https://github.com/kiboschool/setup-guides/tree/main" target="_bla
 If you have any questions or issues while setting up your computer, you should:
 
 - Refer to the <a href="https://github.com/kiboschool/setup-guides#questions" target="_blank">Questions</a> section of the guide
-- Post your questions in the <a href="https://discord.com/channels/1018949047626760252/1121851322111643798" target="blank">#computer-setup-help</a> Discord channel
+- Post your questions in the <a href="https://discord.com/channels/1018949047626760252/1121851322111643798" target="blank">#help-setup</a> Discord channel
   - If you haven't joined Discord yet, first follow the instructions in [this](/lessons/setup/discord.md) lesson to join and introduce yourself, then post your question in the help channel

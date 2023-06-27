@@ -50,5 +50,5 @@ You will take 2 classes during the term. Click the links below to sign up for yo
 Once you complete the above, be sure to review the [checklist](/checklist.md) for a list of taks that you should have completed up to this point. 
 
 ## 🙋🏿 Questions? Comments? 
-- Email admissions@kibo.school
-- Send us a <a href="https://bit.ly/WhatsAppKibo" target="_blank">WhatsApp message</a>
+- If you have any questions regarding computer setup, post your question in the <a href="https://discord.com/channels/1018949047626760252/1121851322111643798" target="blank">#computer-setup-help</a> Discord channel
+- For other questions, email admissions@kibo.school or send us a <a href="https://bit.ly/WhatsAppKibo" target="_blank">WhatsApp message</a>

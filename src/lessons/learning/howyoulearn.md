@@ -67,7 +67,7 @@ Each academic year of the degree is divided into four 10-week terms. During each
 | --- | --- | --- |
 | Monday | July 10, 2023 | July 2023 Term begins |
 | Friday | September 15, 2023 | July 2023 Term ends |
-| Monday - Friday | June 19, 2023 - July  7, 2023 | Academic Break. No classes scheduled |
+| Monday - Friday | September 18, 2023 - October  5, 2023 | Academic Break. No classes scheduled |
 | Monday | October 9, 2023 | October 2023 Term begins |
 | Friday | December 15, 2023 | October 2023 Term ends |
 | Monday - Friday | December 18, 2023 - January 5, 2024 | Academic Break. No classes scheduled |

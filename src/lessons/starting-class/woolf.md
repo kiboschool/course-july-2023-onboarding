@@ -1,82 +1,27 @@
-# How You Will Learn
+# Introduction to Woolf
 
-Some of the markdown features available to use in lessons. 
+As you may know, Kibo is a member college of <a href="https://woolf.university/" target="_blank">Woolf University.</a> Woolf is an accredited, global collegiate higher education institution. This lesson shares more information about Kibo and Woolf, and steps for you to onboard to the Woolf Platform. 
 
-See the `example.md` file to see the source markdown, and open the page [1.1 Example Lesson](./example.md) to see the rendered HTML.
+## Kibo and Woolf University 
+As a member college of Woolf, Kibo offers:
 
-## Links, lists, and emphasis
+- An Undergraduate Diploma in Computer Science (earned after 60 ECTS)
+- A Higher Diploma in Computer Science (earned after 120 ECTS)
+- A Bachelor of Science degree in Computer Science (earned after 180 ECTS credits)
 
-[Markdown syntax](https://www.markdownguide.org/basic-syntax/) can create:
+Woolf is licensed in Malta, and yis recognized within the European Qualifications Framework (EQF) and allows for transportability of higher education credits and degrees within the European Union. Thus, programs have ECTS accreditation.
 
-- lists
-- links
-- _italicized_ and **bold** text for emphasis
-- inline `monospaced / code` formatting
-- multiline code blocks
-
-```python
-name = input("name: ")
-print("hello", name)
-```
-
-We try to stick to `-` for lists, `_` for italics, and `**` for bold. Markdown syntax is
-more permissive -- a single `*` could mean a list or italics.
-
-## Tables
-
-For things like a course schedule, or other tabular information, it's convenient
-to display a table.
-
-| Resource | Purpose | Link |
-|---|---|---|
-| Markdown Tables Generator | Make writing tables easier | [Link](https://www.tablesgenerator.com/markdown_tables) |
-
-## Insets
-
-You can inset notes to draw attention, using blockquotes or the `<aside>` tag.
-
-> blockquote
-> uses the `>` character
-
-<aside>
-
-  Aside uses inline HTML
-
-</aside>
-
-## Toggle (details/summary)
-
-To have content that hides and shows with an arrow, use the `<details>` and
-`<summary>` tags.
-
-<details><summary>Summary is the 'title' of the toggle</summary>
-
-The other content within `<details>` is hidden until toggled open.
-
-**You can have other kinds of content within a toggle.**
-
-I frequently use it to hide videos or other embeds that are optional viewing.
-
-</details>
+Your diploma and degree certificates will come from Woolf University and Kibo School. As the university of record, Woolf will verify your identity, ensure ensure that you are doing work that meets European accreditation standards, and issue your certificate
 
 
-## Youtube Embed
+## The Woolf Platform
+The Woolf platform will serve as your official academic record at Kibo. You will upload copies of your assignment to the platform. The platform will also enable you to access your final grades, transcripts, and degree certificates. 
 
-* We prefer youtube for video embeds; it has better availability for students than other video hosts
-* Use "Unlisted" for videos
-* Use the wrapping div (copy paste from this example and update the youtube embed `src`) instead of the default youtube embed. The default does not resize flexibly.
+In the assignment for this unit, you will join the Woolf platform, by following steps below:
 
-<div class="embed"><iframe src="https://www.youtube.com/embed/jfa-YLyanFw" title="Weather - Reading from API Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+- You will receive an invitation to join:  kibo.woolf.university
+- You will need to join Woolf, and verify your identity and schooling
+  - Upload and verify your official ID
+  - Upload proof of secondary school completion
 
-## Other kinds of embeds
-
-Other tools we've embedded in the past include
-
-- Padlet
-- Google Forms
-- Typeform
-- Replit
-
-Typically, they have an iframe / embed in their 'share' settings that you can copy. To make it look nice on our page, use the wrapping div like the Youtube example above. 
-
-Remove any other styles from what you copied, and add `<div class="embed">` around the iframe.
+More details will be provided in the [assignment](lessons/starting-class/assignment.md)

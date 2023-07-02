@@ -1,4 +1,4 @@
-# Assignment 
+# Baseline Survey
 -----
 <aside>
   
@@ -6,41 +6,23 @@
  
 </aside>
 
-## Sign-up for Woolf
+## The gift of feedback
+We are so excited to have you at Kibo! 
+
+One of the things you'll notice at Kibo is that we ask for feedback (a lot!). These surveys and questionnaires are important to us, and we use them to make many changes to Kibo's programs and offerings. Throughout your experience, you'll be asked to:
+
+- Provide feedback on live class each week
+- Provide feedback at the end of each term
+- Provide ad-hoc feedback 
 
 
-**💡 Before you begin:**
+## Complete the Baseline Survey
+The baseline survey is designed to help us collect some background information about you and your goals before you begin classes.
 
-- Review the [Woolf univeristy](/lessons/starting-class/woolf.md) for additional context.  
-- Get a copy of your government issued identification with a photo. You will need to upload a clear copy where all details including your photo are visible. Acceptable documents are below
-  - Ghana: Driver License, National ID, Passport
-  - Kenya: National ID, Passport
-  - Nigeria: Driver License, National ID, Passport, Voter ID
-- Get  documentation for the highest level of education you have completed
-  - School leaving certificate, e.g., KCSE certificate or WASSCE certificate
-  - Secondary school or university transcripts 
+<aside> 🤔 Why are we asking these questions? </aside>
 
->  📺 Review the slides below for screenshots of the Woolf signup process
+Our aim is for your time at Kibo to be transformation. You will notice the difference and growth in yourself with the passing of each term and year. This survey helps to give us (and you) a _baseline_ of where you are starting today. At the end of each term, we also ask you to evaluate the term, and update some of your answers. This will help ensure that we (and you) are doing our jobs, and progressively helping you get to your peak. 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSuHfV0rubQQ_NhlrMaRG8BL13lsfAxl2tRI4aq2B1OowE-AK-juImhIf0NocNWTcjLiad1QYP5g2Da/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-
-## Complete your entry survey
-You will take 2 classes during the term. Click the links below to sign up for your classes. 
-
-- <a href="https://zoom.us/meeting/register/tJ0lde6tqz8pHtYMPXLJ2mokeB-UMmmxTmdk" target="_blank">Optimizing Your Learning</a>
-  - Live class meets on Zoom on Tuesday at 5:30pm GMT. This is a half-term, 5-week class that will end on August 8
-- <a href="https://zoom.us/meeting/register/tJYuf-yuqzsuG9TuZ2GkmvhZfC0d0qdJ4hY4" target="_blank"> Programming 1</a>
-  - Live class meets on Zoom on Wednesday 3:00pm GMT
-
-<aside>
- 💡 You will receive a confirmation email after registeraton. Open each email and click "Add to Google Calendar" to add the class meetings to your calendar. 
-
-</aside>
-
-## Finalize all checklist steps
-Once you complete the above, review the [checklist](/checklist.md) for all the setup tasks that you should have completed. If you have been unable to complete any of the steps, ask for help below 
-
-## 🙋🏿 Questions? Comments? 
-If you have any questions or need help, post your question in the <a href="https://discord.com/channels/1018949047626760252/1121851322111643798" target="blank">#help-setup</a> Discord channel
+**Please note that your answers will be only shared anonymously and in aggregated form with the Kibo team and stakeholders. 
+**
 

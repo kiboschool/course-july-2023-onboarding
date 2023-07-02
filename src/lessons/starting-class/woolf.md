@@ -1,8 +1,11 @@
-# Introduction to Woolf
+# Introduction to Woolf University
+![woolf](./woolf.png)
 
 As you may know, Kibo is a member college of <a href="https://woolf.university/" target="_blank">Woolf University.</a> Woolf is an accredited, global collegiate higher education institution. This lesson shares more information about Kibo and Woolf, and steps for you to onboard to the Woolf Platform. 
 
-## Kibo and Woolf University 
+
+
+## Kibo and Woolf  
 As a member college of Woolf, Kibo offers:
 
 - An Undergraduate Diploma in Computer Science (earned after 60 ECTS)

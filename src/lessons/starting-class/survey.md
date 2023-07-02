@@ -26,3 +26,4 @@ Our aim is for your time at Kibo to be transformation. You will notice the diffe
 **Please note that your answers will be only shared anonymously and in aggregated form with the Kibo team and stakeholders. 
 **
 
+### <a href="https://forms.gle/xXyo9C4DKdfPNJAm8" target="_blank">Click here to complete the baseline survey</a>

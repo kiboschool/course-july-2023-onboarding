@@ -1,82 +1,46 @@
-# Assignment
+# Assignment 
+-----
+<aside>
+  
+  📝 **Due Date: Friday July 7, 2023 at 11pm GMT**
+ 
+</aside>
 
-Some of the markdown features available to use in lessons. 
+## Signup for Woolf
 
-See the `example.md` file to see the source markdown, and open the page [1.1 Example Lesson](./example.md) to see the rendered HTML.
 
-## Links, lists, and emphasis
+**💡 Before you begin:**
 
-[Markdown syntax](https://www.markdownguide.org/basic-syntax/) can create:
+- Review the [Woolf univeristy](/lessons/starting-class/woolf.md) for additional context.  
+- Get a copy of your government issued identification with a photo. You will need to upload a clear copy where all details including your photo are visible. Acceptable documents are below
+  - Ghana: Driver License, National ID, Passport
+  - Kenya: National ID, Passport
+  - Nigeria: Driver License, National ID, Passport, Voter ID
+- Get  documentation for the highest level of education you have completed
+  - School leaving certificate, e.g., KCSE certificate or WASSCE certificate
+  - Secondary school or university transcripts 
 
-- lists
-- links
-- _italicized_ and **bold** text for emphasis
-- inline `monospaced / code` formatting
-- multiline code blocks
+>  📺 Review the slides below for screenshots of the Woolf signup process
 
-```python
-name = input("name: ")
-print("hello", name)
-```
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSuHfV0rubQQ_NhlrMaRG8BL13lsfAxl2tRI4aq2B1OowE-AK-juImhIf0NocNWTcjLiad1QYP5g2Da/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-We try to stick to `-` for lists, `_` for italics, and `**` for bold. Markdown syntax is
-more permissive -- a single `*` could mean a list or italics.
 
-## Tables
+## Complete your entry survey
+You will take 2 classes during the term. Click the links below to sign up for your classes. 
 
-For things like a course schedule, or other tabular information, it's convenient
-to display a table.
-
-| Resource | Purpose | Link |
-|---|---|---|
-| Markdown Tables Generator | Make writing tables easier | [Link](https://www.tablesgenerator.com/markdown_tables) |
-
-## Insets
-
-You can inset notes to draw attention, using blockquotes or the `<aside>` tag.
-
-> blockquote
-> uses the `>` character
+- <a href="https://zoom.us/meeting/register/tJ0lde6tqz8pHtYMPXLJ2mokeB-UMmmxTmdk" target="_blank">Optimizing Your Learning</a>
+  - Live class meets on Zoom on Tuesday at 5:30pm GMT. This is a half-term, 5-week class that will end on August 8
+- <a href="https://zoom.us/meeting/register/tJYuf-yuqzsuG9TuZ2GkmvhZfC0d0qdJ4hY4" target="_blank"> Programming 1</a>
+  - Live class meets on Zoom on Wednesday 3:00pm GMT
 
 <aside>
-
-  Aside uses inline HTML
+ 💡 You will receive a confirmation email after registeraton. Open each email and click "Add to Google Calendar" to add the class meetings to your calendar. 
 
 </aside>
 
-## Toggle (details/summary)
+## Review the checklist
+Once you complete the above, be sure to review the [checklist](/checklist.md) for a list of tasks that you should have completed up to this point. 
 
-To have content that hides and shows with an arrow, use the `<details>` and
-`<summary>` tags.
+## 🙋🏿 Questions? Comments? 
+If you have any questions or need help, post your question in the <a href="https://discord.com/channels/1018949047626760252/1121851322111643798" target="blank">#help-setup</a> Discord channel
 
-<details><summary>Summary is the 'title' of the toggle</summary>
-
-The other content within `<details>` is hidden until toggled open.
-
-**You can have other kinds of content within a toggle.**
-
-I frequently use it to hide videos or other embeds that are optional viewing.
-
-</details>
-
-
-## Youtube Embed
-
-* We prefer youtube for video embeds; it has better availability for students than other video hosts
-* Use "Unlisted" for videos
-* Use the wrapping div (copy paste from this example and update the youtube embed `src`) instead of the default youtube embed. The default does not resize flexibly.
-
-<div class="embed"><iframe src="https://www.youtube.com/embed/jfa-YLyanFw" title="Weather - Reading from API Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-## Other kinds of embeds
-
-Other tools we've embedded in the past include
-
-- Padlet
-- Google Forms
-- Typeform
-- Replit
-
-Typically, they have an iframe / embed in their 'share' settings that you can copy. To make it look nice on our page, use the wrapping div like the Youtube example above. 
-
-Remove any other styles from what you copied, and add `<div class="embed">` around the iframe.

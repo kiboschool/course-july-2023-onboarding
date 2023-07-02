@@ -6,7 +6,7 @@
  
 </aside>
 
-## Signup for Woolf
+## Sign-up for Woolf
 
 
 **💡 Before you begin:**
@@ -38,8 +38,8 @@ You will take 2 classes during the term. Click the links below to sign up for yo
 
 </aside>
 
-## Review the checklist
-Once you complete the above, be sure to review the [checklist](/checklist.md) for a list of tasks that you should have completed up to this point. 
+## Finalize all checklist steps
+Once you complete the above, review the [checklist](/checklist.md) for all the setup tasks that you should have completed. If you have been unable to complete any of the steps, ask for help below 
 
 ## 🙋🏿 Questions? Comments? 
 If you have any questions or need help, post your question in the <a href="https://discord.com/channels/1018949047626760252/1121851322111643798" target="blank">#help-setup</a> Discord channel

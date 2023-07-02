@@ -3,8 +3,6 @@
 
 As you may know, Kibo is a member college of <a href="https://woolf.university/" target="_blank">Woolf University.</a> Woolf is an accredited, global collegiate higher education institution. This lesson shares more information about Kibo and Woolf, and steps for you to onboard to the Woolf Platform. 
 
-
-
 ## Kibo and Woolf  
 As a member college of Woolf, Kibo offers:
 
@@ -20,11 +18,21 @@ Your diploma and degree certificates will come from Woolf University and Kibo Sc
 ## The Woolf Platform
 The Woolf platform will serve as your official academic record at Kibo. You will upload copies of your assignment to the platform. The platform will also enable you to access your final grades, transcripts, and degree certificates. 
 
-In the assignment for this unit, you will join the Woolf platform, by following steps below:
+### Sign up for Woolf
 
-- You will receive an invitation to join:  kibo.woolf.university
-- You will need to join Woolf, and verify your identity and schooling
-  - Upload and verify your official ID
-  - Upload proof of secondary school completion
 
-More details will be provided in the [assignment](lessons/starting-class/assignment.md)
+**💡 Before you begin:**
+
+- Get a copy of your government issued identification with a photo. You will need to upload a clear copy where all details including your photo are visible. Acceptable documents are below
+  - Ghana: Driver License, National ID, Passport
+  - Kenya: National ID, Passport
+  - Nigeria: Driver License, National ID, Passport, Voter ID
+- Get  documentation for the highest level of education you have completed
+  - School leaving certificate, e.g., KCSE certificate or WASSCE certificate
+  - Secondary school or university transcripts 
+
+>  📺 Review the slides below for the Woolf signup process
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSuHfV0rubQQ_NhlrMaRG8BL13lsfAxl2tRI4aq2B1OowE-AK-juImhIf0NocNWTcjLiad1QYP5g2Da/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+

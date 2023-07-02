@@ -32,12 +32,10 @@
 
 ### Start Class
 
-- [Starting Class](#)
-    - [Woolf University](#)
-    - [Success Tips](lessons/week-3/success-tips.md)
-    - [Assignment](#)
-
-
+- [Starting Class](lessons/starting-class/overview.md)
+    - [Woolf University](lessons/starting-class/woolf.md)
+    - [Success Tips](lessons/starting-class/success-tips.md)
+    - [Assignment](lessons/starting-class/assignment.md)
 
 [Frequently Asked Questions](faqs.md)
 [Checklist](checklist.md)

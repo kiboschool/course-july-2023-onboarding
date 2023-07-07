@@ -18,3 +18,4 @@
 - [ ] Join [Discord](lessons/setup/discord.md)
 - [ ] Register for [classes](lessons/setup/assignment.md)
 - [ ] Sign up for [Woolf](lessons/starting-class/woolf.md)
+- [ ] Complete the [background survey](lessons/starting-class/survey.md)

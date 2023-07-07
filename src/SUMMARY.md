@@ -28,7 +28,7 @@
     - [The Kibo Community](lessons/setup/community.md)
     - [Join Our Community Platform](lessons/setup/discord.md)
     - [Assignment](lessons/setup/assignment.md)
-
+<!--
 
 ### Start Class
 
@@ -36,7 +36,7 @@
     - [Woolf University](lessons/starting-class/woolf.md)
     - [Background survey](lessons/starting-class/survey.md)
     - [Success Tips](lessons/starting-class/success-tips.md)
-    
+ 
 [Frequently Asked Questions](faqs.md)
 [Checklist](checklist.md)
 ...

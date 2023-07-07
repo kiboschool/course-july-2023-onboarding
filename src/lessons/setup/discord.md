@@ -7,6 +7,7 @@
 - If you already have a Discord account, [log in to Discord](https://discord.com/login). Otherwise, [create a Discord account](https://discord.com/register?redirect_to=%2Flogin), then check your email to verify your account. Be sure to check your spam folder if you don't see the email.
 - Then join the Kibo Degree Program Discord server by clicking this link and following the instructions to join: [https://discord.gg/kBVdDg3MqB](https://discord.gg/kBVdDg3MqB) 
 
+
 <aside>
     
 ⚠️ **You should download the Discord app on both your laptop and your mobile. It is the platform that Kibo School uses for the majority of our communication, and you will need to check it regularly.**

@@ -28,7 +28,6 @@
     - [The Kibo Community](lessons/setup/community.md)
     - [Join Our Community Platform](lessons/setup/discord.md)
     - [Assignment](lessons/setup/assignment.md)
-<!--
 
 ### Start Class
 

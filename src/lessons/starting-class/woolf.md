@@ -10,7 +10,7 @@ As a member college of Woolf, Kibo offers:
 - A Higher Diploma in Computer Science (earned after 120 ECTS)
 - A Bachelor of Science degree in Computer Science (earned after 180 ECTS credits)
 
-Woolf is licensed in Malta, and yis recognized within the European Qualifications Framework (EQF) and allows for transportability of higher education credits and degrees within the European Union. Thus, programs have ECTS accreditation.
+Woolf is licensed in Malta, and is recognized within the European Qualifications Framework (EQF) and allows for transportability of higher education credits and degrees within the European Union. Thus, programs have ECTS accreditation.
 
 Your diploma and degree certificates will come from Woolf University and Kibo School. As the university of record, Woolf will verify your identity, ensure ensure that you are doing work that meets European accreditation standards, and issue your certificate
 

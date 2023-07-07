@@ -17,3 +17,4 @@
 - [ ] Setup your [Git and Github](lessons/setup/computer-setup.md)
 - [ ] Join [Discord](lessons/setup/discord.md)
 - [ ] Register for [classes](lessons/setup/assignment.md)
+- [ ] Sign up for [Woolf](lessons/starting-class/woolf.md)
